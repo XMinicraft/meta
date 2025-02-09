@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_respawn",
+  "release_time": "2011-12-19T05:12:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/respawn.jar",
+      "size": 311753
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

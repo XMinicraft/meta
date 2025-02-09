@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "aircraft_b0.5_2",
+  "release_time": "2024-03-05T13:59:58Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://github.com/TheBigEye/Aircraft/releases/download/v0.0.5/Aircraft.jar",
+      "size": 73428772
+    }
+  },
+  "libraries": [],
+  "main_class": "minicraft.core.Game"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "minicraftsquared_2.2.2",
+  "release_time": "2022-07-22T04:33:07Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.2/minicraft_squared-2.2.2.jar",
+      "size": 8103298
+    }
+  },
+  "libraries": [],
+  "main_class": "minicraft.core.Game"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "cthulhucraft_0.03a",
+  "release_time": "2020-08-10T14:53:12Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.03a.jar",
+      "size": 3743508
+    }
+  },
+  "libraries": [],
+  "main_class": "minicraft.core.Game"
+}

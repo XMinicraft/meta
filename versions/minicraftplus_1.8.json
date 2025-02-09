@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "minicraftplus_1.8",
+  "release_time": "2013-05-20T00:00:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.8.jar",
+      "size": 996616
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

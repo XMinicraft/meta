@@ -1,0 +1,1185 @@
+{
+  "format": 1,
+  "versions": [
+    {
+      "id": "aircraft_a1.2.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_a1.2.2.json",
+      "release_time": "2020-06-04T16:08:34Z"
+    },
+    {
+      "id": "aircraft_a1.2.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_a1.2.3.json",
+      "release_time": "2020-06-07T18:09:40Z"
+    },
+    {
+      "id": "aircraft_a1.2.4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_a1.2.4.json",
+      "release_time": "2020-06-10T21:31:26Z"
+    },
+    {
+      "id": "aircraft_a1.2.5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_a1.2.5.json",
+      "release_time": "2020-06-27T22:49:32Z"
+    },
+    {
+      "id": "aircraft_a1.2.5_t",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_a1.2.5_t.json",
+      "release_time": "2020-06-21T03:10:04Z"
+    },
+    {
+      "id": "aircraft_a1.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_a1.3.json",
+      "release_time": "2020-07-23T14:42:49Z"
+    },
+    {
+      "id": "aircraft_b0.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_b0.1.json",
+      "release_time": "2021-02-04T18:25:25Z"
+    },
+    {
+      "id": "aircraft_b0.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_b0.2.json",
+      "release_time": "2021-02-20T12:34:32Z"
+    },
+    {
+      "id": "aircraft_b0.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_b0.3.json",
+      "release_time": "2021-04-15T20:23:06Z"
+    },
+    {
+      "id": "aircraft_b0.4_1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_b0.4_1.json",
+      "release_time": "2021-09-20T14:30:34Z"
+    },
+    {
+      "id": "aircraft_b0.4_2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_b0.4_2.json",
+      "release_time": "2021-12-07T18:38:18Z"
+    },
+    {
+      "id": "aircraft_b0.5_1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_b0.5_1.json",
+      "release_time": "2022-06-12T15:01:09Z"
+    },
+    {
+      "id": "aircraft_b0.5_2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/aircraft_b0.5_2.json",
+      "release_time": "2024-03-05T13:59:58Z"
+    },
+    {
+      "id": "cthulhucraft_0.02a",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/cthulhucraft_0.02a.json",
+      "release_time": "2020-08-10T13:30:21Z"
+    },
+    {
+      "id": "cthulhucraft_0.03a",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/cthulhucraft_0.03a.json",
+      "release_time": "2020-08-10T14:53:12Z"
+    },
+    {
+      "id": "cthulhucraft_0.04a",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/cthulhucraft_0.04a.json",
+      "release_time": "2020-08-10T15:21:04Z"
+    },
+    {
+      "id": "cthulhucraft_0.05",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/cthulhucraft_0.05.json",
+      "release_time": "2021-01-13T20:16:48Z"
+    },
+    {
+      "id": "cthulhucraft_0.05_1a",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/cthulhucraft_0.05_1a.json",
+      "release_time": "2020-09-07T10:08:26Z"
+    },
+    {
+      "id": "cthulhucraft_0.05_2a",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/cthulhucraft_0.05_2a.json",
+      "release_time": "2020-09-18T22:58:56Z"
+    },
+    {
+      "id": "cthulhucraft_0.05_3a",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/cthulhucraft_0.05_3a.json",
+      "release_time": "2020-10-23T23:42:48Z"
+    },
+    {
+      "id": "infinitytale_1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/infinitytale_1.0.0.json",
+      "release_time": "2012-01-22T15:50:00Z"
+    },
+    {
+      "id": "infinitytale_1.1.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/infinitytale_1.1.0.json",
+      "release_time": "2012-05-24T13:47:00Z"
+    },
+    {
+      "id": "flatlands_a1.1.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.1.1.json",
+      "release_time": "2024-11-24T19:48:59Z"
+    },
+    {
+      "id": "flatlands_a1.1.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.1.0.json",
+      "release_time": "2024-11-05T14:39:48Z"
+    },
+    {
+      "id": "flatlands_a1.0.9",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.0.9.json",
+      "release_time": "2024-04-01T00:58:28Z"
+    },
+    {
+      "id": "flatlands_a1.0.8",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.0.8.json",
+      "release_time": "2024-02-16T21:56:17Z"
+    },
+    {
+      "id": "flatlands_a1.0.7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.0.7.json",
+      "release_time": "2023-08-23T18:52:46Z"
+    },
+    {
+      "id": "flatlands_a1.0.6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.0.6.json",
+      "release_time": "2023-05-07T02:00:48Z"
+    },
+    {
+      "id": "flatlands_a1.0.5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.0.5.json",
+      "release_time": "2024-03-31T22:08:46Z"
+    },
+    {
+      "id": "flatlands_a1.0.4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/flatlands_a1.0.4.json",
+      "release_time": "2024-03-31T22:02:44Z"
+    },
+    {
+      "id": "megacraft_0.4.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/megacraft_0.4.2.json",
+      "release_time": "2012-01-02T21:40:00Z"
+    },
+    {
+      "id": "megacraft_0.4.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/megacraft_0.4.3.json",
+      "release_time": "2012-01-04T13:24:00Z"
+    },
+    {
+      "id": "microcraft_1.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/microcraft_1.0.json",
+      "release_time": "2020-08-10T22:22:00Z"
+    },
+    {
+      "id": "minicraft_original",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraft_original.json",
+      "release_time": "2011-12-19T01:45:00Z"
+    },
+    {
+      "id": "minicraftplus_2.3.0-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.3.0-dev1.json",
+      "release_time": "2024-12-05T23:32:28Z"
+    },
+    {
+      "id": "minicraftplus_2.2.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.1.json",
+      "release_time": "2024-12-05T23:24:32Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0.json",
+      "release_time": "2024-04-17T13:04:41Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0-dev7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0-dev7.json",
+      "release_time": "2024-04-03T13:48:00Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0-dev6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0-dev6.json",
+      "release_time": "2024-03-11T18:14:35Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0-dev5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0-dev5.json",
+      "release_time": "2024-01-11T00:46:00Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0-dev4.json",
+      "release_time": "2024-01-11T00:39:23Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0-dev3.json",
+      "release_time": "2023-04-02T14:38:27Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0-dev2.json",
+      "release_time": "2022-12-19T22:29:32Z"
+    },
+    {
+      "id": "minicraftplus_2.2.0-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.2.0-dev1.json",
+      "release_time": "2022-09-26T14:41:54Z"
+    },
+    {
+      "id": "minicraftplus_2.1.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.1.3.json",
+      "release_time": "2022-06-18T23:23:36Z"
+    },
+    {
+      "id": "minicraftplus_2.1.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.1.2.json",
+      "release_time": "2022-06-05T17:19:36Z"
+    },
+    {
+      "id": "minicraftplus_2.1.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.1.1.json",
+      "release_time": "2022-06-02T18:32:10Z"
+    },
+    {
+      "id": "minicraftplus_2.1.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.1.0.json",
+      "release_time": "2022-05-25T18:44:32Z"
+    },
+    {
+      "id": "minicraftplus_2.1.0-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.1.0-dev3.json",
+      "release_time": "2022-04-18T17:52:23Z"
+    },
+    {
+      "id": "minicraftplus_2.1.0-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.1.0-dev2.json",
+      "release_time": "2022-02-20T19:30:09Z"
+    },
+    {
+      "id": "minicraftplus_2.1.0-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.1.0-dev1.json",
+      "release_time": "2021-12-07T13:43:01Z"
+    },
+    {
+      "id": "minicraftplus_2.0.7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.7.json",
+      "release_time": "2021-09-12T13:01:18Z"
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.7-dev4.json",
+      "release_time": "2021-08-20T02:14:44Z"
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.7-dev3.json",
+      "release_time": "2021-05-25T11:21:23Z"
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.7-dev2.json",
+      "release_time": "2021-04-10T18:36:10Z"
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.7-dev1.json",
+      "release_time": "2021-02-06T22:56:10Z"
+    },
+    {
+      "id": "minicraftplus_2.0.6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.6.json",
+      "release_time": "2020-01-27T02:05:25Z"
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.6-dev4.json",
+      "release_time": "2019-10-27T13:22:23Z"
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.6-dev3.json",
+      "release_time": "2019-07-22T03:28:16Z"
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.6-dev2.json",
+      "release_time": "2019-06-26T13:47:24Z"
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.6-dev1.json",
+      "release_time": "2019-06-19T13:40:46Z"
+    },
+    {
+      "id": "minicraftplus_2.0.5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.5.json",
+      "release_time": "2019-06-07T14:57:38Z"
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.5-dev6.json",
+      "release_time": "2019-04-25T20:14:12Z"
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.5-dev5.json",
+      "release_time": "2019-04-20T04:29:49Z"
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.5-dev4.json",
+      "release_time": "2019-03-19T02:59:17Z"
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.5-dev3.json",
+      "release_time": "2018-12-30T03:21:04Z"
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.5-dev2.json",
+      "release_time": "2018-11-25T21:32:48Z"
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.5-dev1.json",
+      "release_time": "2018-10-20T15:08:02Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4.json",
+      "release_time": "2018-06-15T22:35:05Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev9",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev9.json",
+      "release_time": "2018-06-12T04:38:29Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev8",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev8.json",
+      "release_time": "2018-06-12T00:35:08Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev7.json",
+      "release_time": "2018-06-09T05:06:31Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev6.json",
+      "release_time": "2018-06-07T20:32:48Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev5.json",
+      "release_time": "2018-01-28T05:48:14Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev4.json",
+      "release_time": "2018-01-04T15:00:26Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev3.json",
+      "release_time": "2017-11-09T01:49:13Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev2.json",
+      "release_time": "2017-11-05T04:32:36Z"
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.4-dev1.json",
+      "release_time": "2017-10-19T03:09:57Z"
+    },
+    {
+      "id": "minicraftplus_2.0.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.3.json",
+      "release_time": "2017-09-21T20:34:58Z"
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.3-dev6.json",
+      "release_time": "2017-09-18T01:31:38Z"
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.3-dev5.json",
+      "release_time": "2017-09-12T00:32:25Z"
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.3-dev4.json",
+      "release_time": "2017-09-10T22:53:37Z"
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.3-dev3.json",
+      "release_time": "2017-07-29T03:08:46Z"
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.3-dev2.json",
+      "release_time": "2017-07-26T21:03:44Z"
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.3-dev1.json",
+      "release_time": "2017-07-22T05:38:32Z"
+    },
+    {
+      "id": "minicraftplus_2.0.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.2.json",
+      "release_time": "2017-07-20T03:31:01Z"
+    },
+    {
+      "id": "minicraftplus_2.0.2-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.2-dev3.json",
+      "release_time": "2017-07-20T03:45:37Z"
+    },
+    {
+      "id": "minicraftplus_2.0.2-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.2-dev2.json",
+      "release_time": "2017-07-20T03:45:05Z"
+    },
+    {
+      "id": "minicraftplus_2.0.2-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.2-dev1.json",
+      "release_time": "2017-07-13T05:21:02Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1.json",
+      "release_time": "2017-07-09T23:36:51Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev9",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev9.json",
+      "release_time": "2017-07-10T01:05:29Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev8",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev8.json",
+      "release_time": "2017-07-10T01:05:37Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev7.json",
+      "release_time": "2017-07-10T01:05:45Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev6.json",
+      "release_time": "2017-07-10T01:05:53Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev5.json",
+      "release_time": "2017-07-10T01:06:03Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev4.json",
+      "release_time": "2017-07-10T01:06:30Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev3.json",
+      "release_time": "2017-07-10T01:06:37Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev2.json",
+      "release_time": "2017-07-10T01:06:44Z"
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.1-dev1.json",
+      "release_time": "2017-07-10T01:06:48Z"
+    },
+    {
+      "id": "minicraftplus_2.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.0.json",
+      "release_time": "2017-07-10T01:08:14Z"
+    },
+    {
+      "id": "minicraftplus_2.0.0-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.0-dev3.json",
+      "release_time": "2017-07-10T01:08:24Z"
+    },
+    {
+      "id": "minicraftplus_2.0.0-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.0-dev2.json",
+      "release_time": "2017-07-10T01:09:01Z"
+    },
+    {
+      "id": "minicraftplus_2.0.0-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_2.0.0-dev1.json",
+      "release_time": "2017-07-10T01:09:26Z"
+    },
+    {
+      "id": "minicraftplus_1.9.4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.4.json",
+      "release_time": "2017-07-09T23:53:16Z"
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.4-dev7.json",
+      "release_time": "2017-07-10T00:29:31Z"
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.4-dev6.json",
+      "release_time": "2017-07-10T00:30:17Z"
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.4-dev5.json",
+      "release_time": "2017-07-10T00:30:35Z"
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.4-dev4.json",
+      "release_time": "2017-07-10T00:30:47Z"
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.4-dev3.json",
+      "release_time": "2017-07-10T00:31:01Z"
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.4-dev1.json",
+      "release_time": "2017-07-10T00:31:32Z"
+    },
+    {
+      "id": "minicraftplus_1.9.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.3.json",
+      "release_time": "2017-07-10T00:31:42Z"
+    },
+    {
+      "id": "minicraftplus_1.9.3-dev2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.3-dev2.json",
+      "release_time": "2017-07-10T00:32:43Z"
+    },
+    {
+      "id": "minicraftplus_1.9.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.2.json",
+      "release_time": "2017-07-10T00:35:15Z"
+    },
+    {
+      "id": "minicraftplus_1.9.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.9.1.json",
+      "release_time": "2017-07-10T00:15:57Z"
+    },
+    {
+      "id": "minicraftplus_1.8",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.8.json",
+      "release_time": "2013-05-20T00:00:00Z"
+    },
+    {
+      "id": "minicraftplus_1.7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.7.json",
+      "release_time": "2013-02-23T01:11:00Z"
+    },
+    {
+      "id": "minicraftplus_1.6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.6.json",
+      "release_time": "2012-07-03T00:00:00Z"
+    },
+    {
+      "id": "minicraftplus_1.5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.5.json",
+      "release_time": "2012-06-07T00:00:00Z"
+    },
+    {
+      "id": "minicraftplus_1.3_test",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.3_test.json",
+      "release_time": "2012-01-20T19:22:00Z"
+    },
+    {
+      "id": "minicraftplus_1.3.1_test",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.3.1_test.json",
+      "release_time": "2012-01-21T09:28:00Z"
+    },
+    {
+      "id": "minicraftplus_1.2_test",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_1.2_test.json",
+      "release_time": "2012-01-01T16:44:00Z"
+    },
+    {
+      "id": "minicraftplus_dungeon_preview",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_dungeon_preview.json",
+      "release_time": "2012-05-25T00:00:00Z"
+    },
+    {
+      "id": "minicraftplus_pre1.5_Test",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftplus_pre1.5_Test.json",
+      "release_time": "2012-05-24T21:27:00Z"
+    },
+    {
+      "id": "minicraftred_1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftred_1.0.0.json",
+      "release_time": "2022-04-24T16:09:03Z"
+    },
+    {
+      "id": "minicraftsquared_1.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.0.0.json",
+      "release_time": "2021-11-01T11:09:53Z"
+    },
+    {
+      "id": "minicraftsquared_1.1.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.1.0.json",
+      "release_time": "2021-11-11T11:04:51Z"
+    },
+    {
+      "id": "minicraftsquared_1.2.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.2.0.json",
+      "release_time": "2021-11-27T11:01:44Z"
+    },
+    {
+      "id": "minicraftsquared_1.4.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.4.0.json",
+      "release_time": "2021-11-27T11:01:44Z"
+    },
+    {
+      "id": "minicraftsquared_1.5.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.5.0.json",
+      "release_time": "2022-01-14T17:56:36Z"
+    },
+    {
+      "id": "minicraftsquared_1.6.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.6.0.json",
+      "release_time": "2022-02-01T18:50:46Z"
+    },
+    {
+      "id": "minicraftsquared_1.7.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.7.0.json",
+      "release_time": "2022-02-18T17:59:34Z"
+    },
+    {
+      "id": "minicraftsquared_1.8.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.8.0.json",
+      "release_time": "2022-03-12T13:40:37Z"
+    },
+    {
+      "id": "minicraftsquared_1.9.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_1.9.0.json",
+      "release_time": "2022-04-01T04:13:39Z"
+    },
+    {
+      "id": "minicraftsquared_2.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.0.0.json",
+      "release_time": "2022-06-01T14:43:36Z"
+    },
+    {
+      "id": "minicraftsquared_2.1.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.1.1.json",
+      "release_time": "2022-06-22T06:41:00Z"
+    },
+    {
+      "id": "minicraftsquared_2.2.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.2.2.json",
+      "release_time": "2022-07-22T04:33:07Z"
+    },
+    {
+      "id": "minicraftsquared_2.3.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.3.2.json",
+      "release_time": "2022-08-24T06:42:03Z"
+    },
+    {
+      "id": "minicraftsquared_2.4.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.4.0.json",
+      "release_time": "2022-10-01T06:43:39Z"
+    },
+    {
+      "id": "minicraftsquared_2.5.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.5.0.json",
+      "release_time": "2022-10-29T07:56:43Z"
+    },
+    {
+      "id": "minicraftsquared_2.6.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.6.1.json",
+      "release_time": "2022-12-01T14:58:57Z"
+    },
+    {
+      "id": "minicraftsquared_2.7.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.7.0.json",
+      "release_time": "2022-12-20T11:59:29Z"
+    },
+    {
+      "id": "minicraftsquared_2.8.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.8.0.json",
+      "release_time": "2023-02-11T11:00:27Z"
+    },
+    {
+      "id": "minicraftsquared_2.8.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.8.1.json",
+      "release_time": "2023-02-12T10:03:57Z"
+    },
+    {
+      "id": "minicraftsquared_2.9.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.9.0.json",
+      "release_time": "2023-04-02T05:53:54Z"
+    },
+    {
+      "id": "minicraftsquared_2.9.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_2.9.1.json",
+      "release_time": "2023-04-08T08:26:05Z"
+    },
+    {
+      "id": "minicraftsquared_3.0.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_3.0.0.json",
+      "release_time": "2023-12-25T09:29:39Z"
+    },
+    {
+      "id": "minicraftsquared_3.0.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_3.0.1.json",
+      "release_time": "2023-12-27T09:07:35Z"
+    },
+    {
+      "id": "minicraftsquared_3.0.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/minicraftsquared_3.0.2.json",
+      "release_time": "2023-12-30T17:00:19Z"
+    },
+    {
+      "id": "miniventure_a1.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_a1.1.json",
+      "release_time": "2019-06-25T01:27:47Z"
+    },
+    {
+      "id": "miniventure_a1.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_a1.2.json",
+      "release_time": "2019-05-30T01:46:45Z"
+    },
+    {
+      "id": "miniventure_a2.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_a2.1.json",
+      "release_time": "2020-01-31T01:00:01Z"
+    },
+    {
+      "id": "miniventure_a2.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_a2.2.json",
+      "release_time": "2020-08-18T02:42:41Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre1.json",
+      "release_time": "2017-11-26T06:26:04Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre2.json",
+      "release_time": "2017-12-12T00:58:06Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre3.json",
+      "release_time": "2017-12-14T05:53:18Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre4.json",
+      "release_time": "2017-12-15T05:18:28Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre5.json",
+      "release_time": "2017-12-15T21:22:31Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre6.json",
+      "release_time": "2018-01-08T23:14:06Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre7.json",
+      "release_time": "2018-01-10T05:38:51Z"
+    },
+    {
+      "id": "miniventure_pa-1.0-pre8",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0-pre8.json",
+      "release_time": "2018-01-15T01:12:01Z"
+    },
+    {
+      "id": "miniventure_pa-1.0.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0.1.json",
+      "release_time": "2017-12-08T05:30:11Z"
+    },
+    {
+      "id": "miniventure_pa-1.0",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.0.json",
+      "release_time": "2018-01-15T21:20:23Z"
+    },
+    {
+      "id": "miniventure_pa-1.1-pre1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1-pre1.json",
+      "release_time": "2018-01-23T05:30:43Z"
+    },
+    {
+      "id": "miniventure_pa-1.1-pre2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1-pre2.json",
+      "release_time": "2018-01-24T01:12:09Z"
+    },
+    {
+      "id": "miniventure_pa-1.1-pre3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1-pre3.json",
+      "release_time": "2018-01-30T05:36:43Z"
+    },
+    {
+      "id": "miniventure_pa-1.1-pre4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1-pre4.json",
+      "release_time": "2018-02-02T15:52:15Z"
+    },
+    {
+      "id": "miniventure_pa-1.1-pre5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1-pre5.json",
+      "release_time": "2018-02-05T22:48:31Z"
+    },
+    {
+      "id": "miniventure_pa-1.1-pre6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1-pre6.json",
+      "release_time": "2018-02-06T05:29:33Z"
+    },
+    {
+      "id": "miniventure_pa-1.1-pre7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1-pre7.json",
+      "release_time": "2018-02-07T01:12:16Z"
+    },
+    {
+      "id": "miniventure_pa-1.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.1.json",
+      "release_time": "2018-02-07T15:44:30Z"
+    },
+    {
+      "id": "miniventure_pa-1.2-pre1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.2-pre1.json",
+      "release_time": "2018-02-11T02:47:21Z"
+    },
+    {
+      "id": "miniventure_pa-1.2-pre2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.2-pre2.json",
+      "release_time": "2018-02-22T05:20:57Z"
+    },
+    {
+      "id": "miniventure_pa-1.2-pre3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.2-pre3.json",
+      "release_time": "2018-02-23T01:17:29Z"
+    },
+    {
+      "id": "miniventure_pa-1.2-pre4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.2-pre4.json",
+      "release_time": "2018-02-23T05:56:46Z"
+    },
+    {
+      "id": "miniventure_pa-1.2-pre5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.2-pre5.json",
+      "release_time": "2018-02-24T03:01:09Z"
+    },
+    {
+      "id": "miniventure_pa-1.2-pre6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.2-pre6.json",
+      "release_time": "2018-02-25T02:54:22Z"
+    },
+    {
+      "id": "miniventure_pa-1.2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.2.json",
+      "release_time": "2018-02-25T04:56:18Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre1.json",
+      "release_time": "2018-03-01T23:59:05Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre2.json",
+      "release_time": "2018-03-26T23:53:51Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre3.json",
+      "release_time": "2018-03-27T04:00:18Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre4.json",
+      "release_time": "2018-03-28T02:45:34Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre5.json",
+      "release_time": "2018-03-30T04:19:14Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre6.json",
+      "release_time": "2018-04-03T04:46:02Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre7.json",
+      "release_time": "2018-04-04T02:50:05Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre8",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre8.json",
+      "release_time": "2018-04-05T04:44:45Z"
+    },
+    {
+      "id": "miniventure_pa-1.3-pre9",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3-pre9.json",
+      "release_time": "2018-04-06T03:24:35Z"
+    },
+    {
+      "id": "miniventure_pa-1.3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.3.json",
+      "release_time": "2018-04-15T08:20:04Z"
+    },
+    {
+      "id": "miniventure_pa-1.4-pre1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4-pre1.json",
+      "release_time": "2018-04-16T01:06:51Z"
+    },
+    {
+      "id": "miniventure_pa-1.4-pre2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4-pre2.json",
+      "release_time": "2018-04-17T03:22:54Z"
+    },
+    {
+      "id": "miniventure_pa-1.4-pre3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4-pre3.json",
+      "release_time": "2018-04-26T23:23:33Z"
+    },
+    {
+      "id": "miniventure_pa-1.4-pre4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4-pre4.json",
+      "release_time": "2018-05-05T23:11:23Z"
+    },
+    {
+      "id": "miniventure_pa-1.4-pre5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4-pre5.json",
+      "release_time": "2018-05-06T05:24:52Z"
+    },
+    {
+      "id": "miniventure_pa-1.4-pre6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4-pre6.json",
+      "release_time": "2018-05-09T04:59:28Z"
+    },
+    {
+      "id": "miniventure_pa-1.4-pre7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4-pre7.json",
+      "release_time": "2018-05-09T19:42:07Z"
+    },
+    {
+      "id": "miniventure_pa-1.4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.4.json",
+      "release_time": "2018-05-13T04:32:59Z"
+    },
+    {
+      "id": "miniventure_pa-1.5-pre6",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5-pre6.json",
+      "release_time": "2018-11-26T02:59:20Z"
+    },
+    {
+      "id": "miniventure_pa-1.5-pre1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5-pre1.json",
+      "release_time": "2018-06-28T23:36:20Z"
+    },
+    {
+      "id": "miniventure_pa-1.5-pre2",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5-pre2.json",
+      "release_time": "2018-07-05T06:01:01Z"
+    },
+    {
+      "id": "miniventure_pa-1.5-pre3",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5-pre3.json",
+      "release_time": "2018-07-06T23:55:58Z"
+    },
+    {
+      "id": "miniventure_pa-1.5-pre4",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5-pre4.json",
+      "release_time": "2018-07-18T17:27:59Z"
+    },
+    {
+      "id": "miniventure_pa-1.5-pre5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5-pre5.json",
+      "release_time": "2018-11-25T04:50:26Z"
+    },
+    {
+      "id": "miniventure_pa-1.5-pre7",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5-pre7.json",
+      "release_time": "2018-12-12T06:45:52Z"
+    },
+    {
+      "id": "miniventure_pa-1.5",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/miniventure_pa-1.5.json",
+      "release_time": "2018-12-13T19:35:16Z"
+    },
+    {
+      "id": "unitycraft_0.0.1",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/unitycraft_0.0.1.json",
+      "release_time": "2022-10-11T14:29:30Z"
+    },
+    {
+      "id": "standalonemod_alecraft",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_alecraft.json",
+      "release_time": "2011-12-26T00:00:00Z"
+    },
+    {
+      "id": "standalonemod_betterminicraft",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_betterminicraft.json",
+      "release_time": "2011-12-30T19:09:00Z"
+    },
+    {
+      "id": "standalonemod_call-of-nature",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_call-of-nature.json",
+      "release_time": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "standalonemod_celeixen",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_celeixen.json",
+      "release_time": "2012-12-21T14:09:00Z"
+    },
+    {
+      "id": "standalonemod_creativemode",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_creativemode.json",
+      "release_time": "2012-01-22T23:08:00Z"
+    },
+    {
+      "id": "standalonemod_creeper",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_creeper.json",
+      "release_time": "2011-12-23T01:12:00Z"
+    },
+    {
+      "id": "standalonemod_extended",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_extended.json",
+      "release_time": "2017-03-16T18:10:00Z"
+    },
+    {
+      "id": "standalonemod_frostgiants",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_frostgiants.json",
+      "release_time": "2013-02-28T20:37:00Z"
+    },
+    {
+      "id": "standalonemod_godmode",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_godmode.json",
+      "release_time": "2012-01-22T19:12:00Z"
+    },
+    {
+      "id": "standalonemod_hackcraft",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_hackcraft.json",
+      "release_time": "2012-01-28T23:23:00Z"
+    },
+    {
+      "id": "standalonemod_happycraft",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_happycraft.json",
+      "release_time": "2011-12-24T16:12:00Z"
+    },
+    {
+      "id": "standalonemod_macrocraft",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_macrocraft.json",
+      "release_time": "2012-08-09T00:39:00Z"
+    },
+    {
+      "id": "standalonemod_magic",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_magic.json",
+      "release_time": "2011-12-23T01:21:00Z"
+    },
+    {
+      "id": "standalonemod_minicommands",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicommands.json",
+      "release_time": "2013-01-07T18:34:00Z"
+    },
+    {
+      "id": "standalonemod_minicraft-fly",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraft-fly.json",
+      "release_time": "2012-01-05T00:00:00Z"
+    },
+    {
+      "id": "standalonemod_minicraft-tr",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraft-tr.json",
+      "release_time": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "standalonemod_minicraftce",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraftce.json",
+      "release_time": "2011-12-23T21:44:00Z"
+    },
+    {
+      "id": "standalonemod_minicraftci",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraftci.json",
+      "release_time": "2012-02-03T16:21:00Z"
+    },
+    {
+      "id": "standalonemod_minicraftmo",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraftmo.json",
+      "release_time": "2012-06-16T12:14:00Z"
+    },
+    {
+      "id": "standalonemod_minicrafttextures",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicrafttextures.json",
+      "release_time": "2013-01-16T21:48:00Z"
+    },
+    {
+      "id": "standalonemod_minicraftx",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraftx.json",
+      "release_time": "2018-01-31T14:59:00Z"
+    },
+    {
+      "id": "standalonemod_minicraft-delux",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraft-delux.json",
+      "release_time": "2012-02-08T23:25:00Z"
+    },
+    {
+      "id": "standalonemod_minicraft-rebuild",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicraft-rebuild.json",
+      "release_time": "2018-02-06T23:11:00Z"
+    },
+    {
+      "id": "standalonemod_minicrate",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minicrate.json",
+      "release_time": "2012-08-25T16:24:00Z"
+    },
+    {
+      "id": "standalonemod_minifarm",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minifarm.json",
+      "release_time": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "standalonemod_miniIsles",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_miniIsles.json",
+      "release_time": "2012-04-15T01:18:00Z"
+    },
+    {
+      "id": "standalonemod_minitextures",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_minitextures.json",
+      "release_time": "2013-01-01T02:38:00Z"
+    },
+    {
+      "id": "standalonemod_moboverload",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_moboverload.json",
+      "release_time": "2012-06-16T18:33:00Z"
+    },
+    {
+      "id": "standalonemod_resizable",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_resizable.json",
+      "release_time": "2011-12-21T18:18:00Z"
+    },
+    {
+      "id": "standalonemod_respawn",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_respawn.json",
+      "release_time": "2011-12-19T05:12:00Z"
+    },
+    {
+      "id": "standalonemod_saveandload",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_saveandload.json",
+      "release_time": "2013-02-02T01:16:00Z"
+    },
+    {
+      "id": "standalonemod_shroomycraft",
+      "url": "https://cdn.jsdelivr.net/gh/XMinicraft/xmeta@master/versions/standalonemod_shroomycraft.json",
+      "release_time": "2012-07-24T16:22:00Z"
+    }
+  ]
+}

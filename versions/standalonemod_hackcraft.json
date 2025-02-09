@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_hackcraft",
+  "release_time": "2012-01-28T23:23:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/hackcraft.jar",
+      "size": 270395
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "minicraftplus_2.1.1",
+  "release_time": "2022-06-02T18:32:10Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.1/minicraft_plus-2.1.1.jar",
+      "size": 3889668
+    }
+  },
+  "libraries": [],
+  "main_class": "minicraft.core.Game"
+}

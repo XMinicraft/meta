@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_creativemode",
+  "release_time": "2012-01-22T23:08:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/creativemode.jar",
+      "size": 267083
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

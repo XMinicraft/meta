@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_resizable",
+  "release_time": "2011-12-21T18:18:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/resizable.jar",
+      "size": 255423
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

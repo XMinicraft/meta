@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_minicraft-tr",
+  "release_time": "2000-01-01T00:00:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft-tr.jar",
+      "size": 250655
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

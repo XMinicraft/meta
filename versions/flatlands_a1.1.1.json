@@ -1,0 +1,13 @@
+{
+  "type": "executable",
+  "id": "flatlands_a1.1.1",
+  "release_time": "2024-11-24T19:48:59Z",
+  "downloads": {
+    "client": {
+      "windows": {
+        "url": "https://github.com/GabrielM99/flatlands-updates/releases/download/Alpha-1.1.1/Flatlands.zip",
+        "size": 130293931
+      }
+    }
+  }
+}

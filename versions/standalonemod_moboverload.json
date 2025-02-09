@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_moboverload",
+  "release_time": "2012-06-16T18:33:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/moboverload.jar",
+      "size": 463528
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

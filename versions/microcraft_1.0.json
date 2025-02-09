@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "microcraft_1.0",
+  "release_time": "2020-08-10T22:22:00Z",
+  "java": {
+    "version": 14
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/microcraft/1.0.jar",
+      "size": 445321
+    }
+  },
+  "libraries": [],
+  "main_class": "com.jdh.microcraft.Main"
+}

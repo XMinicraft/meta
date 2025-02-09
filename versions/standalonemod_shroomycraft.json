@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_shroomycraft",
+  "release_time": "2012-07-24T16:22:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/shroomycraft.jar",
+      "size": 185912
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

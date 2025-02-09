@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_celeixen",
+  "release_time": "2012-12-21T14:09:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/celeixen.jar",
+      "size": 266915
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

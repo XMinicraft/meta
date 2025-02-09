@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_betterminicraft",
+  "release_time": "2011-12-30T19:09:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/betterminicraft.jar",
+      "size": 466608
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.GameContainer"
+}

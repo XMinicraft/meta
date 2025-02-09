@@ -1,0 +1,25 @@
+{
+  "type": "executable",
+  "id": "unitycraft_0.0.1",
+  "release_time": "2022-10-11T14:29:30Z",
+  "downloads": {
+    "client": {
+      "android": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-android.apk",
+        "size": 20080379
+      },
+      "windows_x86": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-windows_x86.zip",
+        "size": 21119052
+      },
+      "windows_x64": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-windows_x64.zip",
+        "size": 24156331
+      },
+      "linux": {
+        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/unitycraft/0.0.1-linux.tar.gz",
+        "size": 37777985
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "standalonemod_minicrafttextures",
+  "release_time": "2013-01-16T21:48:00Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicrafttextures.jar",
+      "size": 288342
+    }
+  },
+  "libraries": [],
+  "main_class": "com.mojang.ld22.Game"
+}

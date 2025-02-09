@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "id": "aircraft_a1.3",
+  "release_time": "2020-07-23T14:42:49Z",
+  "java": {
+    "version": 8
+  },
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.3.jar",
+      "size": 34841883
+    }
+  },
+  "libraries": [],
+  "main_class": "minicraft.Game"
+}
