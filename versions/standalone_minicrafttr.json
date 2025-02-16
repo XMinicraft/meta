@@ -1,0 +1,1 @@
+{"type":"java","id":"standalone_minicrafttr","release_time":"2000-01-01T00:00:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicrafttr.jar","size":250655,"sha1":"3da3998074643dcd18e16171f72cfa8b5e8a782b"}},"libraries":[],"main_class":"com.mojang.ld22.Game"}

@@ -1,0 +1,1 @@
+{"type":"java","id":"standalone_ld22-ce","release_time":"2000-01-01T00:00:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/ld22-ce.jar","size":302944,"sha1":"b83fb3b6702ac23eebfb77a09c3f35fd9458cc38"}},"libraries":[],"main_class":"com.mojang.ld22.Main"}

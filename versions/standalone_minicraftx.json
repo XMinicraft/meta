@@ -1,0 +1,1 @@
+{"type":"java","id":"standalone_minicraftx","release_time":"2018-01-31T14:59:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicraftx.jar","size":297160,"sha1":"70a41ccac210856dca86fdb5b317e679e2e4df3f"}},"libraries":[],"main_class":"com.mojang.ld22.MiniCraftX"}

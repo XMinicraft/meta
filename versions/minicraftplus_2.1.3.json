@@ -1,16 +1,1 @@
-{
-  "type": "java",
-  "id": "minicraftplus_2.1.3",
-  "release_time": "2022-06-18T23:23:36Z",
-  "java": {
-    "version": 8
-  },
-  "downloads": {
-    "client": {
-      "url": "https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.3/minicraft_plus-2.1.3.jar",
-      "size": 3885725
-    }
-  },
-  "libraries": [],
-  "main_class": "minicraft.core.Game"
-}
+{"type":"java","id":"minicraftplus_2.1.3","release_time":"2022-06-18T23:23:36Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/MinicraftPlus/minicraft-plus-revived/releases/download/v2.1.3/minicraft_plus-2.1.3.jar","size":3885725,"sha1":"9b7c209fc9ce76a43dd6b4b36cb15ee0612c4d7d"}},"libraries":[],"main_class":"minicraft.core.Game"}

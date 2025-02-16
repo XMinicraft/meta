@@ -1,16 +1,1 @@
-{
-  "type": "java",
-  "id": "minicraftplus_1.5",
-  "release_time": "2012-06-07T00:00:00Z",
-  "java": {
-    "version": 8
-  },
-  "downloads": {
-    "client": {
-      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.5.jar",
-      "size": 931228
-    }
-  },
-  "libraries": [],
-  "main_class": "com.mojang.ld22.Game"
-}
+{"type":"java","id":"minicraftplus_1.5","release_time":"2012-06-07T00:00:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.5.jar","size":931228,"sha1":"82279c76d77023b3946746a39ac7bc7e1736b738"}},"libraries":[],"main_class":"com.mojang.ld22.Game"}

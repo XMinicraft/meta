@@ -1,0 +1,1 @@
+{"type":"java","id":"standalone_minitextures","release_time":"2013-01-01T02:38:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minitextures.jar","size":297927,"sha1":"aaaef3862b032cbf20f9335bfde47d40a6a4eb91"}},"libraries":[],"main_class":"com.mojang.ld22.Game"}

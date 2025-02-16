@@ -1,16 +1,1 @@
-{
-  "type": "java",
-  "id": "minicraftsquared_1.4.0",
-  "release_time": "2021-11-27T11:01:44Z",
-  "java": {
-    "version": 8
-  },
-  "downloads": {
-    "client": {
-      "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.4/minicraft_square-1.4.0.jar",
-      "size": 5763721
-    }
-  },
-  "libraries": [],
-  "main_class": "minicraft.core.Game"
-}
+{"type":"java","id":"minicraftsquared_1.4.0","release_time":"2021-11-27T11:01:44Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v1.4/minicraft_square-1.4.0.jar","size":5763721,"sha1":"3809fb8d87faf79c0072cb2b6b6fa9d1d009163d"}},"libraries":[],"main_class":"minicraft.core.Game"}

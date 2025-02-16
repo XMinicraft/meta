@@ -1,16 +1,1 @@
-{
-  "type": "java",
-  "id": "aircraft_a1.2.3",
-  "release_time": "2020-06-07T18:09:40Z",
-  "java": {
-    "version": 8
-  },
-  "downloads": {
-    "client": {
-      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.3.jar",
-      "size": 41953281
-    }
-  },
-  "libraries": [],
-  "main_class": "minicraft.Game"
-}
+{"type":"java","id":"aircraft_a1.2.3","release_time":"2020-06-07T18:09:40Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/TheBigEye/Aircraft/releases/download/1.2-Alpha-3/Aircraft.alpha.1.2.release.3.jar","size":41953281,"sha1":"806de69cf63eb46c1d11c2291aadfc3edd4c0fee"}},"libraries":[],"main_class":"minicraft.Game"}

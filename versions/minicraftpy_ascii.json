@@ -1,0 +1,11 @@
+{
+  "type": "python",
+  "id": "minicraftpy-ascii",
+  "release_time": "2000-01-01T00:00:00Z",
+  "downloads": {
+    "client": {
+      "url": "https://github.com/TheBigEye/minicraft-py/archive/749bb9ef1dffd2eef7e344f888d9624f0f4d1eb0.zip",
+      "size": 818916
+    }
+  }
+}

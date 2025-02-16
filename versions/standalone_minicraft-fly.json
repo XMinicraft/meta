@@ -1,0 +1,1 @@
+{"type":"java","id":"standalone_minicraft-fly","release_time":"2012-01-05T00:00:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicraft-fly.jar","size":270328,"sha1":"2c63c76b4d726284cacd95c212081df67ecca0ab"}},"libraries":[],"main_class":"com.mojang.ld22.Game"}

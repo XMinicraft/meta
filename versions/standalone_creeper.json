@@ -1,0 +1,1 @@
+{"type":"java","id":"standalone_creeper","release_time":"2011-12-23T01:12:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/creeper.jar","size":493513,"sha1":"8aeaa4fcca5ff0ae687ca595049179eb205ca159"}},"libraries":[],"main_class":"com.mojang.ld22.Game"}
