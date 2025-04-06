@@ -7,73 +7,13 @@ I also have a gitlab index repo for fallbacks.
  - java
  - executable
 
-## Versions (274)
-
-### aircraft
-| ID | Type | Release Time |
-|--|--|--|
-| aircraft_a1.2.2 | Java | 2020-06-04T16:08:34Z |
-| aircraft_a1.2.3 | Java | 2020-06-07T18:09:40Z |
-| aircraft_a1.2.4 | Java | 2020-06-10T21:31:26Z |
-| aircraft_a1.2.5 | Java | 2020-06-27T22:49:32Z |
-| aircraft_a1.2.5_t | Java | 2020-06-21T03:10:04Z |
-| aircraft_a1.3 | Java | 2020-07-23T14:42:49Z |
-| aircraft_b0.1 | Java | 2021-02-04T18:25:25Z |
-| aircraft_b0.2 | Java | 2021-02-20T12:34:32Z |
-| aircraft_b0.3 | Java | 2021-04-15T20:23:06Z |
-| aircraft_b0.4_1 | Java | 2021-09-20T14:30:34Z |
-| aircraft_b0.4_2 | Java | 2021-12-07T18:38:18Z |
-| aircraft_b0.5_1 | Java | 2022-06-12T15:01:09Z |
-| aircraft_b0.5_2 | Java | 2024-03-05T13:59:58Z |
-
-### cthulhucraft
-| ID | Type | Release Time |
-|--|--|--|
-| cthulhucraft_0.02a | Java | 2020-08-10T13:30:21Z |
-| cthulhucraft_0.03a | Java | 2020-08-10T14:53:12Z |
-| cthulhucraft_0.04a | Java | 2020-08-10T15:21:04Z |
-| cthulhucraft_0.05 | Java | 2021-01-13T20:16:48Z |
-| cthulhucraft_0.05_1a | Java | 2020-09-07T10:08:26Z |
-| cthulhucraft_0.05_2a | Java | 2020-09-18T22:58:56Z |
-| cthulhucraft_0.05_3a | Java | 2020-10-23T23:42:48Z |
-
-### infinitytale
-| ID | Type | Release Time |
-|--|--|--|
-| infinitytale_1.0.0 | Java | 2012-01-22T15:50:00Z |
-| infinitytale_1.1.0 | Java | 2012-05-24T13:47:00Z |
-
-### flatlands
-| ID | Type | Release Time |
-|--|--|--|
-| flatlands_a1.1.1 | Executable | 2024-11-24T19:48:59Z |
-| flatlands_a1.1.0 | Executable | 2024-11-05T14:39:48Z |
-| flatlands_a1.0.9 | Executable | 2024-04-01T00:58:28Z |
-| flatlands_a1.0.8 | Executable | 2024-02-16T21:56:17Z |
-| flatlands_a1.0.7 | Executable | 2023-08-23T18:52:46Z |
-| flatlands_a1.0.6 | Executable | 2023-05-07T02:00:48Z |
-| flatlands_a1.0.5 | Executable | 2024-03-31T22:08:46Z |
-| flatlands_a1.0.4 | Executable | 2024-03-31T22:02:44Z |
-
-### megacraft
-| ID | Type | Release Time |
-|--|--|--|
-| megacraft_0.4.2 | Java | 2012-01-02T21:40:00Z |
-| megacraft_0.4.3 | Java | 2012-01-04T13:24:00Z |
-
-### microcraft
-| ID | Type | Release Time |
-|--|--|--|
-| microcraft_1.0 | Java | 2020-08-10T22:22:00Z |
-
-### minicraft
-| ID | Type | Release Time |
-|--|--|--|
-| minicraft_original | Java | 2011-12-19T01:45:00Z |
+## Versions (276)
 
 ### minicraftplus
 | ID | Type | Release Time |
 |--|--|--|
+| minicraftplus_2.3.0-infdev2 | Java | 2025-04-05T18:20:02Z |
+| minicraftplus_2.3.0-dev2 | Java | 2025-04-05T18:20:02Z |
 | minicraftplus_2.3.0-dev1 | Java | 2024-12-05T23:32:28Z |
 | minicraftplus_2.2.1 | Java | 2024-12-05T23:24:32Z |
 | minicraftplus_2.2.0 | Java | 2024-04-17T13:04:41Z |
@@ -164,6 +104,68 @@ I also have a gitlab index repo for fallbacks.
 | minicraftplus_1.2_test | Java | 2012-01-01T16:44:00Z |
 | minicraftplus_dungeon_preview | Java | 2012-05-25T00:00:00Z |
 | minicraftplus_pre1.5_Test | Java | 2012-05-24T21:27:00Z |
+
+### aircraft
+| ID | Type | Release Time |
+|--|--|--|
+| aircraft_a1.2.2 | Java | 2020-06-04T16:08:34Z |
+| aircraft_a1.2.3 | Java | 2020-06-07T18:09:40Z |
+| aircraft_a1.2.4 | Java | 2020-06-10T21:31:26Z |
+| aircraft_a1.2.5 | Java | 2020-06-27T22:49:32Z |
+| aircraft_a1.2.5_t | Java | 2020-06-21T03:10:04Z |
+| aircraft_a1.3 | Java | 2020-07-23T14:42:49Z |
+| aircraft_b0.1 | Java | 2021-02-04T18:25:25Z |
+| aircraft_b0.2 | Java | 2021-02-20T12:34:32Z |
+| aircraft_b0.3 | Java | 2021-04-15T20:23:06Z |
+| aircraft_b0.4_1 | Java | 2021-09-20T14:30:34Z |
+| aircraft_b0.4_2 | Java | 2021-12-07T18:38:18Z |
+| aircraft_b0.5_1 | Java | 2022-06-12T15:01:09Z |
+| aircraft_b0.5_2 | Java | 2024-03-05T13:59:58Z |
+
+### cthulhucraft
+| ID | Type | Release Time |
+|--|--|--|
+| cthulhucraft_0.02a | Java | 2020-08-10T13:30:21Z |
+| cthulhucraft_0.03a | Java | 2020-08-10T14:53:12Z |
+| cthulhucraft_0.04a | Java | 2020-08-10T15:21:04Z |
+| cthulhucraft_0.05 | Java | 2021-01-13T20:16:48Z |
+| cthulhucraft_0.05_1a | Java | 2020-09-07T10:08:26Z |
+| cthulhucraft_0.05_2a | Java | 2020-09-18T22:58:56Z |
+| cthulhucraft_0.05_3a | Java | 2020-10-23T23:42:48Z |
+
+### infinitytale
+| ID | Type | Release Time |
+|--|--|--|
+| infinitytale_1.0.0 | Java | 2012-01-22T15:50:00Z |
+| infinitytale_1.1.0 | Java | 2012-05-24T13:47:00Z |
+
+### flatlands
+| ID | Type | Release Time |
+|--|--|--|
+| flatlands_a1.1.1 | Executable | 2024-11-24T19:48:59Z |
+| flatlands_a1.1.0 | Executable | 2024-11-05T14:39:48Z |
+| flatlands_a1.0.9 | Executable | 2024-04-01T00:58:28Z |
+| flatlands_a1.0.8 | Executable | 2024-02-16T21:56:17Z |
+| flatlands_a1.0.7 | Executable | 2023-08-23T18:52:46Z |
+| flatlands_a1.0.6 | Executable | 2023-05-07T02:00:48Z |
+| flatlands_a1.0.5 | Executable | 2024-03-31T22:08:46Z |
+| flatlands_a1.0.4 | Executable | 2024-03-31T22:02:44Z |
+
+### megacraft
+| ID | Type | Release Time |
+|--|--|--|
+| megacraft_0.4.2 | Java | 2012-01-02T21:40:00Z |
+| megacraft_0.4.3 | Java | 2012-01-04T13:24:00Z |
+
+### microcraft
+| ID | Type | Release Time |
+|--|--|--|
+| microcraft_1.0 | Java | 2020-08-10T22:22:00Z |
+
+### minicraft
+| ID | Type | Release Time |
+|--|--|--|
+| minicraft_original | Java | 2011-12-19T01:45:00Z |
 
 ### minicraftred
 | ID | Type | Release Time |
@@ -310,9 +312,9 @@ I also have a gitlab index repo for fallbacks.
 ### minicraftce
 | ID | Type | Release Time |
 |--|--|--|
-| minicraftce_2011.12.22-07.12 | Java | 2011-12-23T21:44:00Z |
-| minicraftce_2011.12.22-22.36 | Java | 2011-12-23T21:44:00Z |
-| minicraftce_2011.12.23-20.51 | Java | 2011-12-23T21:44:00Z |
+| minicraftce_2011.12.22-07.12 | Java | 2011-12-22T07:12:00Z |
+| minicraftce_2011.12.22-22.36 | Java | 2011-12-22T22:36:00Z |
+| minicraftce_2011.12.23-20.51 | Java | 2011-12-23T20:51:00Z |
 
 ### minicraftflash
 | ID | Type | Release Time |
