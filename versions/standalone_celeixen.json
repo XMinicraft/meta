@@ -1,1 +1,0 @@
-{"type":"java","id":"standalone_celeixen","release_time":"2012-12-21T14:09:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/celeixen.jar","size":266915,"sha1":"637b61a90d9af92a44e3f50f94bd2f144a0b05f6"}},"libraries":[],"main_class":"com.mojang.ld22.Game"}

@@ -1,1 +1,0 @@
-{"type":"java","id":"miniventure_pa-1.2-pre6","release_time":"2018-02-25T02:54:22Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/chrisj42/miniventure/releases/download/v1.2.6/miniventure-1.2.6.jar","size":12624723,"sha1":"2f8b1e654c6124df6480ed0960b12aa8f5423f51"}},"libraries":[],"main_class":"miniventure.game.desktop.DesktopLauncher"}

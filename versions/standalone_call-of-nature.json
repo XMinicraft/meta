@@ -1,1 +1,0 @@
-{"type":"java","id":"standalone_call-of-nature","release_time":"2000-01-01T00:00:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/call-of-nature.jar","size":196191,"sha1":"584f8a20f56202610ec7953c1c806b01388ba5b8"}},"libraries":[],"main_class":"com.t23.con.Game"}
