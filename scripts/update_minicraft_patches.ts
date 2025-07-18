@@ -2,6 +2,7 @@ import path from "node:path";
 import fs from "node:fs";
 import { parseArgs } from "node:util";
 import { argv } from "node:process";
+import { orderKeys } from "./utils.ts";
 
 function main() {
     const args = parseArgs({ args: argv.slice(2), options: {
@@ -18,6 +19,12 @@ function main() {
             patch['uid'] = patch.id;
             delete patch.id;
         }
+
+        orderKeys(patch, [
+            "uid",
+            "title",
+            "body"
+        ]);
     }
 
     fs.writeFileSync(patchesPath, JSON.stringify(patches, undefined, args.values.pretty ? 2 : undefined));
