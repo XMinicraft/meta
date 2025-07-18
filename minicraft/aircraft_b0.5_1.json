@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2022-06-12T15:01:09Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/TheBigEye/Aircraft/releases/download/v0.0.5-pre/Aircraft.jar","size":71204792,"sha1":"6432128d54f9c5d1b2c66c198e7df9347f5daa40"}},"libraries":[],"main_class":"minicraft.core.Game","uid":"aircraft_b0.5_1"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "aircraft_b0.5_1",
+  "release_time": "2022-06-12T15:01:09Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "minicraft.core.Game",
+  "downloads": {
+    "client": {
+      "url": "https://github.com/TheBigEye/Aircraft/releases/download/v0.0.5-pre/Aircraft.jar",
+      "size": 71204792,
+      "checksum": {
+        "type": "sha1",
+        "hash": "6432128d54f9c5d1b2c66c198e7df9347f5daa40"
+      }
+    }
+  }
+}

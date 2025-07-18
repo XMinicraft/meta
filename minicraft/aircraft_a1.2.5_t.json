@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2020-06-21T03:10:04Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/TheBigEye/Aircraft/releases/download/1.2.-Alpha5/Aircraft.Alpha.Test.jar","size":42047819,"sha1":"c25d3bbc6113ffb9f997d230e1d3231aa83683f7"}},"libraries":[],"main_class":"minicraft.Game","uid":"aircraft_a1.2.5_t"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "aircraft_a1.2.5_t",
+  "release_time": "2020-06-21T03:10:04Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "minicraft.Game",
+  "downloads": {
+    "client": {
+      "url": "https://github.com/TheBigEye/Aircraft/releases/download/1.2.-Alpha5/Aircraft.Alpha.Test.jar",
+      "size": 42047819,
+      "checksum": {
+        "type": "sha1",
+        "hash": "c25d3bbc6113ffb9f997d230e1d3231aa83683f7"
+      }
+    }
+  }
+}

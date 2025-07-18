@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2023-04-02T05:53:54Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.9.0/minicraft_squared-2.9.0.jar","size":10400351,"sha1":"fc9d60f69ad36cea5123fab7aab805216e33e0cd"}},"libraries":[],"main_class":"minicraft.core.Game","uid":"minicraftsquared_2.9.0"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "minicraftsquared_2.9.0",
+  "release_time": "2023-04-02T05:53:54Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "minicraft.core.Game",
+  "downloads": {
+    "client": {
+      "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.9.0/minicraft_squared-2.9.0.jar",
+      "size": 10400351,
+      "checksum": {
+        "type": "sha1",
+        "hash": "fc9d60f69ad36cea5123fab7aab805216e33e0cd"
+      }
+    }
+  }
+}

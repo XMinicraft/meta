@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2021-04-18T14:13:00Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/pamone1977/BlocksCarft2D/releases/download/2021.04.18-16-17/BlocksCraft2Dv.2021.04.18-16.17.jar","sha1":"b83a185e7cd0acaebe94ba3903b30d6b39f547e5","size":672349}},"libraries":[],"main_class":"ru.blockscraft.core.bootloader.Boot","uid":"diycraft_2021.04.18-16.17"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "diycraft_2021.04.18-16.17",
+  "release_time": "2021-04-18T14:13:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "ru.blockscraft.core.bootloader.Boot",
+  "downloads": {
+    "client": {
+      "url": "https://github.com/pamone1977/BlocksCarft2D/releases/download/2021.04.18-16-17/BlocksCraft2Dv.2021.04.18-16.17.jar",
+      "size": 672349,
+      "checksum": {
+        "type": "sha1",
+        "hash": "b83a185e7cd0acaebe94ba3903b30d6b39f547e5"
+      }
+    }
+  }
+}

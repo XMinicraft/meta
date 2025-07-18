@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2011-12-26T00:00:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/alecraft/0.1.1.jar","size":295391,"sha1":"88fcceee18f6ce55ed31127d8230a460a832da95"}},"libraries":[],"main_class":"com.mojang.ld22.GameContainer","uid":"alecraft_0.1.1"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "alecraft_0.1.1",
+  "release_time": "2011-12-26T00:00:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.GameContainer",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/alecraft/0.1.1.jar",
+      "size": 295391,
+      "checksum": {
+        "type": "sha1",
+        "hash": "88fcceee18f6ce55ed31127d8230a460a832da95"
+      }
+    }
+  }
+}

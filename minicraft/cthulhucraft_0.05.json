@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2021-01-13T20:16:48Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05a-Beta/CthulhuCraft.Beta.0.05.jar","size":80999982,"sha1":"f3c06ed659a61559ea0b85f8f184064f814b4390"}},"libraries":[],"main_class":"minicraft.core.Game","uid":"cthulhucraft_0.05"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "cthulhucraft_0.05",
+  "release_time": "2021-01-13T20:16:48Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "minicraft.core.Game",
+  "downloads": {
+    "client": {
+      "url": "https://github.com/TheBigEye/Cthulhucraft/releases/download/v0.05a-Beta/CthulhuCraft.Beta.0.05.jar",
+      "size": 80999982,
+      "checksum": {
+        "type": "sha1",
+        "hash": "f3c06ed659a61559ea0b85f8f184064f814b4390"
+      }
+    }
+  }
+}

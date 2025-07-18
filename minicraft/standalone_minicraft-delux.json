@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2012-02-08T23:25:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicraft-delux.jar","size":785339,"sha1":"51c9b20a47a76cd5bb53cbf1f56e76a25f78fd18"}},"libraries":[],"main_class":"com.mojang.ld22.GameControl","uid":"standalone_minicraft-delux"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "standalone_minicraft-delux",
+  "release_time": "2012-02-08T23:25:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.GameControl",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicraft-delux.jar",
+      "size": 785339,
+      "checksum": {
+        "type": "sha1",
+        "hash": "51c9b20a47a76cd5bb53cbf1f56e76a25f78fd18"
+      }
+    }
+  }
+}

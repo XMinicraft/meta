@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2011-12-23T20:51:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftce/2011.12.23-20.51.jar","size":532144,"sha1":"84acb9b097193bf627829f6b9abcbb8507f44bc2"}},"libraries":[],"main_class":"com.mojang.ld22.Main","uid":"minicraftce_2011.12.23-20.51"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "minicraftce_2011.12.23-20.51",
+  "release_time": "2011-12-23T20:51:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Main",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftce/2011.12.23-20.51.jar",
+      "size": 532144,
+      "checksum": {
+        "type": "sha1",
+        "hash": "84acb9b097193bf627829f6b9abcbb8507f44bc2"
+      }
+    }
+  }
+}

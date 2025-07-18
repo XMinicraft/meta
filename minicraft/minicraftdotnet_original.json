@@ -1,1 +1,14 @@
-{"type":"executable","release_time":"2000-01-01T00:00:00Z","downloads":{"client":{"windows":{"url":"https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Ports/MiniCraft.NET/MiniCraft.NET-build.zip","size":2984573}}},"uid":"minicraftdotnet_original"}
+{
+  "format_version": 1,
+  "type": "executable",
+  "version": "minicraftdotnet_original",
+  "release_time": "2000-01-01T00:00:00Z",
+  "downloads": {
+    "client": {
+      "windows": {
+        "url": "https://github.com/FurnishedChunk/Minicraft-Mod-Archives/raw/refs/heads/master/Minicraft%20Ports/MiniCraft.NET/MiniCraft.NET-build.zip",
+        "size": 2984573
+      }
+    }
+  }
+}

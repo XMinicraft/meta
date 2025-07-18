@@ -1,0 +1,46 @@
+{
+  "format_version": 1,
+  "uid": "jre",
+  "vendors": [
+    {
+      "uid": "com.azul.zulu",
+      "name": "Azul Zulu",
+      "checksum": {
+        "type": "sha256",
+        "hash": "6032557e693ddf2dfed4bfa8c679de4249af76ec5f9f887b4ff586500e30bacb"
+      }
+    },
+    {
+      "uid": "net.adoptium.temurin",
+      "name": "Eclipse Temurin",
+      "checksum": {
+        "type": "sha256",
+        "hash": "cc0f7e5f19b9dbad25c72396a28ceb7b078521b8533f13ec388548992d17db71"
+      }
+    },
+    {
+      "uid": "com.bellsoft-sw.liberica",
+      "name": "BellSoft Liberica",
+      "checksum": {
+        "type": "sha256",
+        "hash": "749a6f197c07743be3650b67406be62bc1b42b889cac999abd0ab66d359e95fe"
+      }
+    },
+    {
+      "uid": "com.amazon.corretto",
+      "name": "Amazon Corretto",
+      "checksum": {
+        "type": "sha256",
+        "hash": "49fe17f247b10a21f85c5db16d821c03cbc787e0c20d9eb9f20d6bab2df63175"
+      }
+    },
+    {
+      "uid": "com.jetbrains.jre",
+      "name": "Jetbrains Runtime",
+      "checksum": {
+        "type": "sha256",
+        "hash": "5f4fed5bb46a684670a5dd0d9cb30861be3d8a4409036603f618286995085451"
+      }
+    }
+  ]
+}

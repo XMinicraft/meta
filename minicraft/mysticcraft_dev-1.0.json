@@ -1,1 +1,20 @@
-{"type":"java","java":{"version":8},"downloads":{"client":{"url":"https://furnishedchunk.github.io/Minicraft-Mod-Archives/Minicraft%20Mods/shroomycraft.jar","size":491168,"sha1":"2807c98625c6c8a55a77da7d4350b7b3ee81d59b"}},"libraries":[],"main_class":"com.mojang.ld22.Game","release_time":"2000-01-01T00:00:00Z","uid":"mysticcraft_dev-1.0"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "mysticcraft_dev-1.0",
+  "release_time": "2000-01-01T00:00:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Game",
+  "downloads": {
+    "client": {
+      "url": "https://furnishedchunk.github.io/Minicraft-Mod-Archives/Minicraft%20Mods/shroomycraft.jar",
+      "size": 491168,
+      "checksum": {
+        "type": "sha1",
+        "hash": "2807c98625c6c8a55a77da7d4350b7b3ee81d59b"
+      }
+    }
+  }
+}

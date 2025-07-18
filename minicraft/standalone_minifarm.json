@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2000-01-01T00:00:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minifarm.jar","size":273647,"sha1":"3e7678fd31eae3e2f2ef8e5164344f4e151e2797"}},"libraries":[],"main_class":"com.mojang.ld22.Game","uid":"standalone_minifarm"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "standalone_minifarm",
+  "release_time": "2000-01-01T00:00:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Game",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minifarm.jar",
+      "size": 273647,
+      "checksum": {
+        "type": "sha1",
+        "hash": "3e7678fd31eae3e2f2ef8e5164344f4e151e2797"
+      }
+    }
+  }
+}

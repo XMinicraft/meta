@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2012-01-22T19:12:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/godmode.jar","size":189275,"sha1":"825a60cdee93c7a31200e3d9cbba7a8a29ba334e"}},"libraries":[],"main_class":"com.mojang.ld22.Game","uid":"standalone_godmode"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "standalone_godmode",
+  "release_time": "2012-01-22T19:12:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Game",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/godmode.jar",
+      "size": 189275,
+      "checksum": {
+        "type": "sha1",
+        "hash": "825a60cdee93c7a31200e3d9cbba7a8a29ba334e"
+      }
+    }
+  }
+}

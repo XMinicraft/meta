@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2013-01-16T21:48:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicrafttextures.jar","size":288342,"sha1":"c0271230dddd73287d31b5a062005ab9058469f1"}},"libraries":[],"main_class":"com.mojang.ld22.Game","uid":"standalone_minicrafttextures"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "standalone_minicrafttextures",
+  "release_time": "2013-01-16T21:48:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Game",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicrafttextures.jar",
+      "size": 288342,
+      "checksum": {
+        "type": "sha1",
+        "hash": "c0271230dddd73287d31b5a062005ab9058469f1"
+      }
+    }
+  }
+}

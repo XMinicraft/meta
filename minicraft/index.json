@@ -1,0 +1,2499 @@
+{
+  "format_version": 1,
+  "uid": "minicraft",
+  "versions": [
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.2",
+      "release_time": "2025-05-22T16:39:36Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8c35adf67f931d95a3fa4a04eb86b835a994c5abe146dd302c82c2cf89126f1b"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.3.0-infdev2",
+      "release_time": "2025-04-05T18:20:02Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "cf1ed71ce3f1365eaf4a2ca0749405fad3370c6f842560903a930163d43c2828"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.3.0-dev2",
+      "release_time": "2025-04-05T18:20:02Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1dc9ee72802a21b42f1471fe03f0c4b6e1d07325247203fd0f4df8d9f0e5c018"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_a1.2.2",
+      "release_time": "2020-06-04T16:08:34Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "c1270d39c5fc7554aa55d33e5efaf310e4d02b8d88e7c3919b2aa2be5f4337b5"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_a1.2.3",
+      "release_time": "2020-06-07T18:09:40Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1f9fa507f99c56221980983d6943185fa923d9e3d1f7754a4a9a3a4024412204"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_a1.2.4",
+      "release_time": "2020-06-10T21:31:26Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "eab10a4a357a70891e3d573637622af3d0e0d02f3346cdf91773f68467bdc2f5"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_a1.2.5",
+      "release_time": "2020-06-27T22:49:32Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2de3a046a04e461f589f1fccdc2fad84038cc809ff4a14227bb61a332f870278"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_a1.2.5_t",
+      "release_time": "2020-06-21T03:10:04Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "791360e10c1736e989f8a32a724d29bd421f26db7c545599938c8716017cf4bc"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_a1.3",
+      "release_time": "2020-07-23T14:42:49Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "575542961ffdbfe55ee4d0c6d1a76affc4295ca8f6d99e19ede6a071a7a2887a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_b0.1",
+      "release_time": "2021-02-04T18:25:25Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "db7a6689928c039140f35736d552a5579d853d232e579c8ca90aeb6054c373d9"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_b0.2",
+      "release_time": "2021-02-20T12:34:32Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "db347b05932729c2159e3ea9e3f9d3a0a86f135c51c9132d6ee35f2197979024"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_b0.3",
+      "release_time": "2021-04-15T20:23:06Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "325fee9957f0e0ecaf17710b0836ac8f6f2cb4020012ed5fccae7c3ce94c8bd4"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_b0.4_1",
+      "release_time": "2021-09-20T14:30:34Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "3df868e465547477c478484485a39b5f54396a40e7aa5cb8e7da2bed396c5fe0"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_b0.4_2",
+      "release_time": "2021-12-07T18:38:18Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "57e1cbc181e8594fe5ec1e746939cb41306245bb22e1d4af4221da4089e3f3ff"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_b0.5_1",
+      "release_time": "2022-06-12T15:01:09Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "f15ed0c9d34a910f8747447d64cd97f8fd46203d7dc53afab0e7e63f49fccba2"
+      }
+    },
+    {
+      "type": "java",
+      "version": "aircraft_b0.5_2",
+      "release_time": "2024-03-05T13:59:58Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "7850ee657f983097b3503eac2a3c17a2351c84c9b1c3356803b195c11cbc1a74"
+      }
+    },
+    {
+      "type": "java",
+      "version": "cthulhucraft_0.02a",
+      "release_time": "2020-08-10T13:30:21Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "b0f9a60ae370f8acffaf9701495be72302ba30f54f1d6c101ef65a8a94383321"
+      }
+    },
+    {
+      "type": "java",
+      "version": "cthulhucraft_0.03a",
+      "release_time": "2020-08-10T14:53:12Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8512c575b4295f9cee445db44ce21d80463e8a1dcd7490e69da5dd54e0da6441"
+      }
+    },
+    {
+      "type": "java",
+      "version": "cthulhucraft_0.04a",
+      "release_time": "2020-08-10T15:21:04Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "91551acf6fe1e1b01cccb8225387a0c546ca810cc0ab6b3f1645d28548dfda4a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "cthulhucraft_0.05",
+      "release_time": "2021-01-13T20:16:48Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "af42fbe0b2ed3dd4133f8d2cfeb1935a120c9109b8244ade9cc152e9e2b49141"
+      }
+    },
+    {
+      "type": "java",
+      "version": "cthulhucraft_0.05_1a",
+      "release_time": "2020-09-07T10:08:26Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "69b5791377010e949f5de93c33989c64f90ef6662eee5a0e551213716999710a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "cthulhucraft_0.05_2a",
+      "release_time": "2020-09-18T22:58:56Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "70ec57f8d3623e76ca79fc4a3e25c34b07100bef1707107d089439cec701557d"
+      }
+    },
+    {
+      "type": "java",
+      "version": "cthulhucraft_0.05_3a",
+      "release_time": "2020-10-23T23:42:48Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "51dc95bcd76acf25274359ba9cf35734bb0966afbde7572d9a598dc695a0d6f2"
+      }
+    },
+    {
+      "type": "java",
+      "version": "infinitytale_1.0.0",
+      "release_time": "2012-01-22T15:50:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "23c0c5e5e38ba0bb07ac66056352ce67a4ff9b56fcd2dd121292e5c58098640e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "infinitytale_1.1.0",
+      "release_time": "2012-05-24T13:47:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "40355264b907041aaedc4f599b802b309901ef49b0c00b8eab6032bd81959b64"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.1.1",
+      "release_time": "2024-11-24T19:48:59Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "cc456c5acddc4319001ba6c744867645b5493cece4b6dc13d8b01500127dc8b3"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.1.0",
+      "release_time": "2024-11-05T14:39:48Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "be51ee5d443f9bad056e09f15c21228f3d5ba414b0b5464f06819723ad20837d"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.0.9",
+      "release_time": "2024-04-01T00:58:28Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ea5acb4021a259b4c03d97411d917487d09e3c6008c9761209ab44af08406fb0"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.0.8",
+      "release_time": "2024-02-16T21:56:17Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4f88dfe2d1a73066caac831aef676387d1439ed1ce2c3c3d04630ee08b7d78e1"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.0.7",
+      "release_time": "2023-08-23T18:52:46Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0f62d0944232a505e3b460429d0f06767cd189909a75a4c6b621c34a3848af32"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.0.6",
+      "release_time": "2023-05-07T02:00:48Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "b8ea92259fab52640b44f2849ef84d1110dd1aa3b344b20efd8a27e4fc60f165"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.0.5",
+      "release_time": "2024-03-31T22:08:46Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "879d1e1694f1f1ccf86d0655db96c74334571abfd966226493d0264dfddfe364"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "flatlands_a1.0.4",
+      "release_time": "2024-03-31T22:02:44Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2ed3a5d6cb1f3748b167eddca21a3711fe1bc43ce4f8c262efb61ac9af7bf575"
+      }
+    },
+    {
+      "type": "java",
+      "version": "megacraft_0.4.2",
+      "release_time": "2012-01-02T21:40:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "dc81c1ec41eae34de24fe4e3e889c9200f757da13fb246f3b73b8cbcddf1596e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "megacraft_0.4.3",
+      "release_time": "2012-01-04T13:24:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "7aaf68aa6d1b63f61ec27be060a291401ee1ab4f26993c7578881737fb1e0f29"
+      }
+    },
+    {
+      "type": "java",
+      "version": "microcraft_1.0",
+      "release_time": "2020-08-10T22:22:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2c3013c51c855dafc7afcfed192e915be7dbac1ebd7738e0781e2903c0ca7767"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraft_original",
+      "release_time": "2011-12-19T01:45:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "f6a9f781dd03c92833ce51cccb7a2bd2f1c4d7a886fa37ffac9943a49c6cedaa"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.3.0-dev1",
+      "release_time": "2024-12-05T23:32:28Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "a44d42e1348b66cf4f4ffe3a319d6bf75bc31c8caa721bc051d0178b87db84ed"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.1",
+      "release_time": "2024-12-05T23:24:32Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "055a720064401dcb7f57d686b57a6062054a30a223e7dcef2d1c9b6bc75b8d25"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0",
+      "release_time": "2024-04-17T13:04:41Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "643c9a72702cedccff71137843ecf100f8933ff2b5fb660aeacc43878e5a307d"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0-dev7",
+      "release_time": "2024-04-03T13:48:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "940191cac61be75e834e423612860a1625b5896f661eefac97e19c725aba6505"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0-dev6",
+      "release_time": "2024-03-11T18:14:35Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2b560b932c00d47924b72de828b972ce6e6eb3b674f0eac6f93806d7211cf138"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0-dev5",
+      "release_time": "2024-01-11T00:46:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "68d8fdd302d8c80f0f48f95ea67b26b663e0403c6ea4d57dd8abf386a6514a0f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0-dev4",
+      "release_time": "2024-01-11T00:39:23Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fb29993115b6e1f8df219f1657094c9808fb22766e5ecb6ee9a95b7f6065d035"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0-dev3",
+      "release_time": "2023-04-02T14:38:27Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "781e353a2ed7947b8599e93996aaed8cee303505564ae9bcb004dbe8b828f8aa"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0-dev2",
+      "release_time": "2022-12-19T22:29:32Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9001d05ce1819a0be0767005bf231f463c9d16ece9c1ff3b7a167182e5228b65"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.2.0-dev1",
+      "release_time": "2022-09-26T14:41:54Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fa198e8168ef3e76764c47c71ec7c41a1f806c31df2392f307f6b3c5f003ef96"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.1.3",
+      "release_time": "2022-06-18T23:23:36Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "bacbc6928cd57332574660bedc8b5a6d00f4d5e61a7372d5c56cdc0ac48b8bea"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.1.2",
+      "release_time": "2022-06-05T17:19:36Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "af45a97ae11e8d8bb0348f40c3b53242c8f51a0036713a4eb680b06a4ea728fb"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.1.1",
+      "release_time": "2022-06-02T18:32:10Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "3e624d1434df06022719e8619ac571e81a13cd8725bcf62b9c249a1711d7138a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.1.0",
+      "release_time": "2022-05-25T18:44:32Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "50fad3786f6c2888accc680a886a793f93b53274e7eebde9eb06e4c748516e06"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.1.0-dev3",
+      "release_time": "2022-04-18T17:52:23Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "64884c6151b697a404aa7a1221734393c1e2fc08a238e3b569968902a41bcc27"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.1.0-dev2",
+      "release_time": "2022-02-20T19:30:09Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4bc86f4b6df53b5563bc8c9a99155936f46d0cc796ef56cfa7d25d0923f49f06"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.1.0-dev1",
+      "release_time": "2021-12-07T13:43:01Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ef23f1607627e14ad55152cdafc7dc56362a55e96d60861ac7cd79d57d4d314b"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.7",
+      "release_time": "2021-09-12T13:01:18Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "a91278e06637acf5d5fcd4a27f192c7f9858130b38a67955bdd7078d19711da7"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.7-dev4",
+      "release_time": "2021-08-20T02:14:44Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "b089c41e8f2c890046e5a1f3f5146b1263832392cb1389dfdcff5e02df4da584"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.7-dev3",
+      "release_time": "2021-05-25T11:21:23Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "39231a758f7107eb3d46832d35d8922c27f797248997ddc8bae8f1c467754b82"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.7-dev2",
+      "release_time": "2021-04-10T18:36:10Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e0085d167d94ff90c54bb13d9ea9d7fc4b832c8ea15ec9888e7c99a25ff7c6bc"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.7-dev1",
+      "release_time": "2021-02-06T22:56:10Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fd17eeda55b66b2d8f75e41971af36af6223fe78fb7610d21c258f04dddb5c4a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.6",
+      "release_time": "2020-01-27T02:05:25Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e861b912a372dbdc2591f38b930dadaee9fab18324f481691cf3230b7109cdba"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.6-dev4",
+      "release_time": "2019-10-27T13:22:23Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ea5d31a1774fe0960a33a335036684f3802fbb384854071e21a95b567a4917a0"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.6-dev3",
+      "release_time": "2019-07-22T03:28:16Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "63e242c47261b9258348c2aef28086c051a78bd4b9f59a667db8209504cb3adc"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.6-dev2",
+      "release_time": "2019-06-26T13:47:24Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "da8bc06ee80ee0714c48e7cef23c9c79d0f72056e861fac4fde679c330a1a841"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.6-dev1",
+      "release_time": "2019-06-19T13:40:46Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ac6e2d9eb13463b27f1c1f7422f5f83cc6889c0b623476c541c8c94673e3db88"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.5",
+      "release_time": "2019-06-07T14:57:38Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "871f492494e78937c71eb4b43c823715fea9f24664bbcbb6ff5c542215829d3f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.5-dev6",
+      "release_time": "2019-04-25T20:14:12Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1d180484f4a4531f8a097600fd8438a687127a94bae6177b58bd83eee6fc6d58"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.5-dev5",
+      "release_time": "2019-04-20T04:29:49Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "79a63b5bb5858b82e4de5f65dea479f18ba5c9960f2e4b1265e88bef2d021095"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.5-dev4",
+      "release_time": "2019-03-19T02:59:17Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "f249b5f819bf8f655ae04bc8ce9bf15cc3e2d2a375371af344c112bc7cec4109"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.5-dev3",
+      "release_time": "2018-12-30T03:21:04Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "753d12ce1dc6795bcc610368dd7794a32122bd96a10d5837914f1b85645f24ca"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.5-dev2",
+      "release_time": "2018-11-25T21:32:48Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "6e58cc63fcd1f560cc4c7daacffccf73577d1f08a56c398e0d14ceeb1ff0d547"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.5-dev1",
+      "release_time": "2018-10-20T15:08:02Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "831d9715f6ff7d3a583a8d71d2cdc7181ea81c9332b573b7fb65508e51510eab"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4",
+      "release_time": "2018-06-15T22:35:05Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "7b7cc2e743bd64f33c5a373891ba8ce18a1b64db2d93f962e9aa13d4357d61be"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev9",
+      "release_time": "2018-06-12T04:38:29Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "7ea42ed57af88a59a5451fe7c7545a9d73377fe7710f5991fae37c1471c3326e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev8",
+      "release_time": "2018-06-12T00:35:08Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "20f418bb95a0c85c2763764fb60fb8f4725fb4e3f2d19e7c81d238e2645de34f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev7",
+      "release_time": "2018-06-09T05:06:31Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "67b0050d8e9b8a54c39a3f34aa2e146281d006056f9f1eb3de5e32c43bc95cf6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev6",
+      "release_time": "2018-06-07T20:32:48Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e91a5f6057df37a45185d93d901c6ee471338035b87b02c386d6e2ef583ef459"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev5",
+      "release_time": "2018-01-28T05:48:14Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "adb9fb0729fb0c5f9ed9826db7defed8ffd95f96e88bd75e056c467e77023c7f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev4",
+      "release_time": "2018-01-04T15:00:26Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1627489f2ba5328c94a029547265f0af29af72cb50398bdc979070507da2ff9a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev3",
+      "release_time": "2017-11-09T01:49:13Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "86d0dfb985e6a3b621ca1c30df2d8431df83671ea5d1ae1b6ace78890babf560"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev2",
+      "release_time": "2017-11-05T04:32:36Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "24cf6070d89c7075660f9e4ce6bf4c56e7f26c7e9841a65b34fbf5f06fcb37ca"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.4-dev1",
+      "release_time": "2017-10-19T03:09:57Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0041868f4b5c0bdd029e9cc6cab749421c5336f0b24b704af31e4d3f51551dce"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.3",
+      "release_time": "2017-09-21T20:34:58Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "a3684d38e2d5fa229f9b6b8bdf5275d84fa18390fb2277820b2e9811aa4e4907"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.3-dev6",
+      "release_time": "2017-09-18T01:31:38Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d05b038596b0658994cb5a67f1e25439eb835be371eb83f296f00c86687c1829"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.3-dev5",
+      "release_time": "2017-09-12T00:32:25Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "189655a5d035656af08f8abe72ebed6be2c407c09824bed755498013e561513d"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.3-dev4",
+      "release_time": "2017-09-10T22:53:37Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "f9ea1a41e8daed2f758275e8524419703a1c6e7ceab670a560a77689839c05f2"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.3-dev3",
+      "release_time": "2017-07-29T03:08:46Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "db5e9ad24c4c3119d4dc49ebdc030b8aabda1bd877045548773d744265842661"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.3-dev2",
+      "release_time": "2017-07-26T21:03:44Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "3d8539b9a3824918e1cb31bb52493095eab57bd01d9c54f89785b7757f3c482a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.3-dev1",
+      "release_time": "2017-07-22T05:38:32Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "c868df35f7951927b7a4eee84f46d58c45cb850345d4cf390705ef38445c0008"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.2",
+      "release_time": "2017-07-20T03:31:01Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "5f41af8a248c80809be5b2e7a7693ea52582b2f6c197f8e2a18f9223ee974c92"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.2-dev3",
+      "release_time": "2017-07-20T03:45:37Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "99a8c78185f8cea306c537a36ad1c0046a021d288ae2147b96f5f8e8fca8715e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.2-dev2",
+      "release_time": "2017-07-20T03:45:05Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "db7f78941a13e571d68822bdf4db2ea0336909bae583b1e7c345ed942d978107"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.2-dev1",
+      "release_time": "2017-07-13T05:21:02Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e530cd6effd595ef536f869dbcd711c91f6d7ae75eda2d187cc2841f66c4d0b4"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1",
+      "release_time": "2017-07-09T23:36:51Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "155689732a8a03fa68fbbaea220cc40e66c0397f5383f1c758e3deb42f0de9e2"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev9",
+      "release_time": "2017-07-10T01:05:29Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "100b38ab75a285af8959b4b113e21df4dc646a1a5f2d88234676b2acf1621803"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev8",
+      "release_time": "2017-07-10T01:05:37Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "5f165b28dd2757d6918eaed8305ba9a6c78b350588deed3b6d2db38ddcec9094"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev7",
+      "release_time": "2017-07-10T01:05:45Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "522976bccf047783ed9b44a00d37c80fcfb34dbf008f213ff9424955bdff74f0"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev6",
+      "release_time": "2017-07-10T01:05:53Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "de5829cd9669fa784a10377d86a27c8fc4f2e3717acec7706d3639a0635ee009"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev5",
+      "release_time": "2017-07-10T01:06:03Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fed5def2fe9d2e1138b34628621582c93a31bc01673de0b49e7941efb49fab8b"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev4",
+      "release_time": "2017-07-10T01:06:30Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "00f572e3f663a74623cf57e446037d851936be595848d107f29cb2adb56a03d4"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev3",
+      "release_time": "2017-07-10T01:06:37Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8f9f515b6e36f08ae5b5b5011836580dc9f48305e71606df8ff994b387d8a8f5"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev2",
+      "release_time": "2017-07-10T01:06:44Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fe864018188507e8d60c34a427d5dc032cf01be9fa046a2033061ed83ea512ec"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.1-dev1",
+      "release_time": "2017-07-10T01:06:48Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2fd7a9e8e68cd0119130a2d700089bbf519d671739fcb70e12b659858be0ad75"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.0",
+      "release_time": "2017-07-10T01:08:14Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "5d4d5a9817c3fbd58281111c45d1057d60540d6dc24b3f029b11bf9083865a8c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.0-dev3",
+      "release_time": "2017-07-10T01:08:24Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0f04261836fdf8946f7b83329c22bb21803a61b3fefdc239162170529bba898c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.0-dev2",
+      "release_time": "2017-07-10T01:09:01Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "89a46b229e3d9d93a0e5695133a45efb8e9b0c2fc965316307307d415c24d8fb"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_2.0.0-dev1",
+      "release_time": "2017-07-10T01:09:26Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "77b26d191e40ce25c52fdcc92282c47143c1153bf40f67a5f7a0801960725bcc"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.4",
+      "release_time": "2017-07-09T23:53:16Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "bb9b01c28a4a08383a2e2c28f16b2278e0b34dedbb2c134249f51b52192ae392"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.4-dev7",
+      "release_time": "2017-07-10T00:29:31Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "945cda299f9880fc571f2037c093ccef513e3a5f3c72b3c3c5f800ddee9d4ad6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.4-dev6",
+      "release_time": "2017-07-10T00:30:17Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2223b0d821cd8934602745bd6584deeb2a6ca1a052bcd5594bfec9641063e2a5"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.4-dev5",
+      "release_time": "2017-07-10T00:30:35Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "46827505eec76cc63175485fcca9571f99271c38e13c39dd258973a086589a13"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.4-dev4",
+      "release_time": "2017-07-10T00:30:47Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "85bf038279b5b7538d242ffc83377573d0bb59ce970fb02aaea5e231df1b81e7"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.4-dev3",
+      "release_time": "2017-07-10T00:31:01Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "68db16a57639add381c0bfc406de84cf9b1f03803c69af834e5fff72c023e3cc"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.4-dev1",
+      "release_time": "2017-07-10T00:31:32Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "95680c98d339aa5bee3fbe64641ccdb5a54233eb7172c74739cf2dfb7684d394"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.3",
+      "release_time": "2017-07-10T00:31:42Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0f4dad9e31b7e886870a1a9e42d3a6684bbba6b0bbe743689a50cd870eacfba6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.3-dev2",
+      "release_time": "2017-07-10T00:32:43Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0db5a98fe8bad0e25eed6a31ee514a0bd5ce06d457dfa203c643ffb1acae4f0a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.2",
+      "release_time": "2017-07-10T00:35:15Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "3c2d83cef6c6aaf3e961bec359da04d3e708c21cc1b2d76641862d41d3e2307e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.9.1",
+      "release_time": "2017-07-10T00:15:57Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2cb98b63e4560a40c447c1837940679ab430cf906c32ef976481f234b7aabdff"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.8",
+      "release_time": "2013-05-20T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e46bccab39bc7d308f825d362f99c32b96a3c02bd6b3805679b983f91aa60076"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.7",
+      "release_time": "2013-02-23T01:11:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d27458dee2d292214536283b9a803cb527a8bac4962ac37ed20775e64ba27801"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.6",
+      "release_time": "2012-07-03T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "497793fac91f0cca00d43d2ca99559631b3a49a736e508ccb8da1d14ae954f48"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.5",
+      "release_time": "2012-06-07T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "28541deae0d6892bf972c4d0f130fe34268749fa1e0a5a57eefb27f8c4ffcbbe"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.4.2_test",
+      "release_time": "2012-10-17T18:11:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8bdd0c99b490efb0de6121dfe5925b94b756ba5cb7f57fa0542fa87c18160a9c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.3_test",
+      "release_time": "2012-01-20T19:22:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1677cf254a2a17087cc6b428b8208ee29890e8e6692469f66781326105ee5c73"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.3.1_test",
+      "release_time": "2012-01-21T09:28:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "6db015b5506e7a1697c368ec0effef0d8c2f1059bc3b091d52a93ffcfb147844"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_1.2_test",
+      "release_time": "2012-01-01T16:44:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "afbf61f21bc8663a964532fca9d9bea44eaf16f64e9b12efc7e85a32c6faac6a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_dungeon_preview",
+      "release_time": "2012-05-25T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8a912efb94905412ae9379e21534a759d24669c195e24c616ab1c0d72598c7df"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftplus_pre1.5_Test",
+      "release_time": "2012-05-24T21:27:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "236c9469c61b6d5ea2b8c2b5123a4420c50cd706507667271d74feb14ca18b28"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftred_1.0.0",
+      "release_time": "2022-04-24T16:09:03Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "647faf899ea595f2d49111dae80a4be64abf0bfe4fe772de5d02e7f133826437"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.0.0",
+      "release_time": "2021-11-01T11:09:53Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "927a744a5dc3b4a58dd59ac22e83f9951ff20180b198433e707b5c62edb89425"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.1.0",
+      "release_time": "2021-11-11T11:04:51Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "7f2e1f950170a8a56197ee089e5fcfbc64ba4c13c938b63cfe0e2d21d58c4d3a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.2.0",
+      "release_time": "2021-11-27T11:01:44Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4e71e96cd64cfbd374b6e4f03bf0e94589a739467475fe6c172ed05a424d588f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.4.0",
+      "release_time": "2021-11-27T11:01:44Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4a592cda41f3657b455ac3bc88afa3cd8d2283a310b7e754ba569efcaa430a6a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.5.0",
+      "release_time": "2022-01-14T17:56:36Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "573c334c8cb5478c21a1722c6e9cfbc430626f34fc55f8b52898b6d8267ddf52"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.6.0",
+      "release_time": "2022-02-01T18:50:46Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "97948efcbc43b815cd51eea46474faad959a8637cb51612a541e2f4040343d37"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.7.0",
+      "release_time": "2022-02-18T17:59:34Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "a68b0045e1c5ac22e60dc91218e02892558f26734cd5da76d95243285443025a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.8.0",
+      "release_time": "2022-03-12T13:40:37Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "c48fd77d277edbbf68af051a3e7bd329f28818044271dd6c0bcc0235fe708fa1"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_1.9.0",
+      "release_time": "2022-04-01T04:13:39Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "c700f7609be7d8bdbe9ff87c12a0bf5772e3164b864d273a9eddfd00c08f47b8"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.0.0",
+      "release_time": "2022-06-01T14:43:36Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "05d1d2a2ad214a9a0d382d3a37941bb304c7f1876ed80af812423a3fd5902f29"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.1.1",
+      "release_time": "2022-06-22T06:41:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "137f79032ac91627341f539ff08a84df3e6d04178f84db555f7e79f33c992d7a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.2.2",
+      "release_time": "2022-07-22T04:33:07Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "dc85587da8e65010fc57d5ec866822b2307760ab3b8da2b38c2aae8742371b74"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.3.2",
+      "release_time": "2022-08-24T06:42:03Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "feffec9e5b5a193898c44ee80ee14989a20223f18d89f17c1caccd033691fc13"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.4.0",
+      "release_time": "2022-10-01T06:43:39Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d14f5f5dc06680aa54f5bc5f1cadbf4cb91ab3cb0353bfb4db0e3a74e7839f92"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.5.0",
+      "release_time": "2022-10-29T07:56:43Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2377bf985a061b0981909fd1f2c7f769de2db51a4080a4c3a9b52566f260742d"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.6.1",
+      "release_time": "2022-12-01T14:58:57Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "68e2a1b25ccdeb47cae3ccc36a72b3412d25bddc98541f24d6fcf250717b0b05"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.7.0",
+      "release_time": "2022-12-20T11:59:29Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2dead18538b76b418972eaae59efe6087c339f1d2dc3939db901018da3b9379b"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.8.0",
+      "release_time": "2023-02-11T11:00:27Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d0d61659661efd5521e629b2c615924447664caa275d2c198246df951be232e6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.8.1",
+      "release_time": "2023-02-12T10:03:57Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "eaf3637e938cd7d114c360b2ddb4b8cbf7cfbd282b16a057fe754f0f2cec0e3f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.9.0",
+      "release_time": "2023-04-02T05:53:54Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ef0aca7d5d7e23dcefdc044f8427c1f51cad65e2c75b2813598d44807bfa4cdc"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.9.1",
+      "release_time": "2023-04-08T08:26:05Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "322a65f545ffb4e173b076f3493da9409841aa07ea54522428edaa16bcd308fc"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_3.0.0",
+      "release_time": "2023-12-25T09:29:39Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "71c38de827f004d92fc7a96a52abeedd370170543668799d064310b1f217b01c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_3.0.1",
+      "release_time": "2023-12-27T09:07:35Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d60d9058183a153e56e42f13490cf0db29182c4cfea57fb9fb3c6f9fd69c35b2"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_3.0.2",
+      "release_time": "2023-12-30T17:00:19Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9bbbedac0cc821cdf79611bfdbe78c16c374930e86e18eb298f01ac8d20559fa"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_a1.1",
+      "release_time": "2019-06-25T01:27:47Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "89f4bf14ef82d7773a30b56f9ea6749d4e6dbb96cfb793d675b21e0c7d648c27"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_a1.2",
+      "release_time": "2019-05-30T01:46:45Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9e0ec083788529d39ce4a796321c415bd8ee528a593df31fa3ac503b682db0ca"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_a2.1",
+      "release_time": "2020-01-31T01:00:01Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "db3ee68a21729109061ffa08ac0188fbc4e7a65913035683de92e82c8f386bed"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_a2.2",
+      "release_time": "2020-08-18T02:42:41Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9cbd52adb15e3ee385471d7036a006217c6da39c8641345a952ed3e560286a5a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre1",
+      "release_time": "2017-11-26T06:26:04Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "6f84beec082cfa57c433e060316802b75c7df9600bab1deb919b65b29d95ee47"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre2",
+      "release_time": "2017-12-12T00:58:06Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "5bf711b2be185c916ea64296ea7eee8d85520974535875de5c2345bf6cc8380d"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre3",
+      "release_time": "2017-12-14T05:53:18Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "48200a1c5e2a28d01a049052b9c85718834528813b37ed23fb70c5313ba8e1af"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre4",
+      "release_time": "2017-12-15T05:18:28Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "23f287f3bde92c308a8f1c0e47fc6455485aa7b6be62f2921f759882c4288cf8"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre5",
+      "release_time": "2017-12-15T21:22:31Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0e33b5490c2b2b44a9f6838e04865878f46ba6ef08fdecde025c8359bf60c853"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre6",
+      "release_time": "2018-01-08T23:14:06Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "673c31388028f4199fa4a796725626f0b5151a628e4e020f952e5d7565527de7"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre7",
+      "release_time": "2018-01-10T05:38:51Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "beb60aa5b5370bdfa06f8ce8c8911989d17af9465101e03c874506562fefcb2e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0-pre8",
+      "release_time": "2018-01-15T01:12:01Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0377e814a032f06f94c182e85af6ab5991cd82fd4bd4cfda565f76e455816c35"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0.1",
+      "release_time": "2017-12-08T05:30:11Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d3aadd400e8f59f185be7b6770481dec00611061a40b879c4b77ef890aa6a6c6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.0",
+      "release_time": "2018-01-15T21:20:23Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e69eeaa0785ef157f60066c662f32aae3227f664856627864229ba86399a07e3"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1-pre1",
+      "release_time": "2018-01-23T05:30:43Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "768769be887e83b586586c9616ab4fa96403098d5076b4be0d3a749345f29f2c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1-pre2",
+      "release_time": "2018-01-24T01:12:09Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "cb7a3836596a9e9ec5851f5f4fd0e3517df465ca4e997f2fd4fd0bc5fdae8baa"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1-pre3",
+      "release_time": "2018-01-30T05:36:43Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0f5d222adf31ab1ba3ab3b448be68bc340c3ff04169b254b0ea2ebf1d2af6696"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1-pre4",
+      "release_time": "2018-02-02T15:52:15Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ab04486016757ee3f9a5198e6fc89980d01a661e831419027d7e9f0994b960cf"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1-pre5",
+      "release_time": "2018-02-05T22:48:31Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "29b5434e07c2a5ff0c1f2e0188922b5dbf9a35d5a07884f3e6cf9ab3e588c2f1"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1-pre6",
+      "release_time": "2018-02-06T05:29:33Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "623b1d78483e54d75ef97cf630a9335b891d0b451838682ef8659ae5e4bf79ce"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1-pre7",
+      "release_time": "2018-02-07T01:12:16Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "bacba96a881efc180e25a44980686224288c29af4d979ba04a3e87662287be28"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.1",
+      "release_time": "2018-02-07T15:44:30Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "527ea014e7869a896d94487a4ef69059fe5f869e1fc94e5aed92dec11a40c127"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.2-pre1",
+      "release_time": "2018-02-11T02:47:21Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "db6def386f8c6636b25c65b41e46d670a342d424929ed08559beb84542ad142a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.2-pre2",
+      "release_time": "2018-02-22T05:20:57Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fb9bbe63d926f152c97b0e4ff8b0952f0ccc221bfc16cc6b60b42a6bed5aca18"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.2-pre3",
+      "release_time": "2018-02-23T01:17:29Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "daa05a6304a9c3bb6373cee1ea34a0e9f11598a6ab6b072c573e9fc083c7eff5"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.2-pre4",
+      "release_time": "2018-02-23T05:56:46Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "a0c1b99aad4b3dc9d03b5a85ecfab66519795d7d05f38e03dd6798924cfddc00"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.2-pre5",
+      "release_time": "2018-02-24T03:01:09Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1ae14cd3fe3728a9d435d12f31f2a5c71feb943475a2e29e8936613d7575f142"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.2-pre6",
+      "release_time": "2018-02-25T02:54:22Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9613e85bc034cfd6b28566f88e3fc41c7f9cf8ec2a81f182c657ff7527d5d978"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.2",
+      "release_time": "2018-02-25T04:56:18Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0f18703042b2b02c494fb529fe266837291c2db5875aeab3bb59b4ebe946441e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre1",
+      "release_time": "2018-03-01T23:59:05Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "c6ac54329fcac617bdd4f41f61687bf97bc31c09bf373d79f4faac1198866e41"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre2",
+      "release_time": "2018-03-26T23:53:51Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "983ba8d06d1b87d28283f75c740e5e73965a7feb04c8884f030378c5d723b4ea"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre3",
+      "release_time": "2018-03-27T04:00:18Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "b78cbecad5f621652d3962a97ebf182f9a92ac24aaaa7685e0f984f6f7ea3bc3"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre4",
+      "release_time": "2018-03-28T02:45:34Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "57e9e7b2c004b11b0fe22b28c2edec8de780407c942b0d92686919a41d52165c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre5",
+      "release_time": "2018-03-30T04:19:14Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "6fdc2d455c9edd05f0cfc59e658d0c78a119e58ee660eaf3884b937f2664f889"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre6",
+      "release_time": "2018-04-03T04:46:02Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "083c81a4ebe91925eaa64ec5f231827b3451db6aaa8a5b3394848ab5a3220835"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre7",
+      "release_time": "2018-04-04T02:50:05Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "3e0c1fc6d2be37bbb13978ceb545397f4a625e6cf3a7917ed11d7a0a00ff6b74"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre8",
+      "release_time": "2018-04-05T04:44:45Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "772f0221ab5dc912f8fb2508104a498ccf68c8c595c8cdaff2073a1434717b6f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3-pre9",
+      "release_time": "2018-04-06T03:24:35Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0242ba80b22b2ce8c984bb422565313b20976569c480e24cafaf7ff00e500cde"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.3",
+      "release_time": "2018-04-15T08:20:04Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ef9699aa114156c44fcb6b674b623d761316259ab1fe041a025090b4ee92d939"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4-pre1",
+      "release_time": "2018-04-16T01:06:51Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9234e84ae5bbe2407ec3a4dc491aec7701de920c9f13e07f9ad0149e39658300"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4-pre2",
+      "release_time": "2018-04-17T03:22:54Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1c03d6b8d86c1cba68fb05ba9e0549a5e6fed62bc8b8487ff1f020ae740bb1cd"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4-pre3",
+      "release_time": "2018-04-26T23:23:33Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "a69790e30e12a88114d266342f4170972e3d6f613653caab6d493bbecd51fa11"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4-pre4",
+      "release_time": "2018-05-05T23:11:23Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "f34d6c4972e3aa5daef3e20d2f54d573fcd9912ffaa3012a488c4ded66f52df1"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4-pre5",
+      "release_time": "2018-05-06T05:24:52Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "949a48da2f14438cf78cbe10ec3fe3ce526e0046d53a90206a733a0dbd39ce61"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4-pre6",
+      "release_time": "2018-05-09T04:59:28Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "27fa401d3a39d788aab214b1b399ca117ca9fb3624a798238d04b8674e3ae771"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4-pre7",
+      "release_time": "2018-05-09T19:42:07Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9458a53bd550142fff53805113983425c56645b132f026396fe4e198dbb14e39"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.4",
+      "release_time": "2018-05-13T04:32:59Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "985d95136a1b21d51087cd12c55267baf94baf9eed7670076bb6eb297284202d"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5-pre6",
+      "release_time": "2018-11-26T02:59:20Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2a68d9fe75ff4b118f9d1136d491f7d9b6cfa444f924c1e2bab583b0c35f1d49"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5-pre1",
+      "release_time": "2018-06-28T23:36:20Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ac576a540e86f0fa4b0f13c72a3c2eeed72e10cc3fba574810a9618c7efb8562"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5-pre2",
+      "release_time": "2018-07-05T06:01:01Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1cc36b06f9519beaf0e702ca4db2287f970af12bb46c016b02a17dc5bc0e80e9"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5-pre3",
+      "release_time": "2018-07-06T23:55:58Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "74fe8e4fb98c62b30c48cbdf221d7940e7a42c31c14c1c1fa65e6d86f43804aa"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5-pre4",
+      "release_time": "2018-07-18T17:27:59Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "26a90e33131549af17ac8db47f86ae87abe3298d8df4f127b9a9327a5d23e133"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5-pre5",
+      "release_time": "2018-11-25T04:50:26Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "214abb258182530769fceca79f1bf0a93724cea40dd9f7d51cfb9d0db97e4a59"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5-pre7",
+      "release_time": "2018-12-12T06:45:52Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "22ab75dc92f5a30f8782cf8c014880a6ba8918da581ff6b2acd93685b1ab80b8"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniventure_pa-1.5",
+      "release_time": "2018-12-13T19:35:16Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ad0c39c2c459e2b75b8164207afc4ef6afab50578c93f790938fc63a501a700a"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "unitycraft_0.0.1",
+      "release_time": "2022-10-11T14:29:30Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "118ff0fdfaf94a5bab8fc6960254bdf2c13f60170acac375da7093b593c9d38b"
+      }
+    },
+    {
+      "type": "java",
+      "version": "betterminicraft_2.0",
+      "release_time": "2011-12-30T19:09:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "196c66fb54fa68a7df7146e81a5137932bf0174c28d036b114de83d1c27d5084"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_call-of-nature",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "195d7e6ccd3cb8f778a5310af5b2ecf2c8415588763fd51af9b49185dff91d55"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_celeixen",
+      "release_time": "2012-12-21T14:09:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "72c36219a19cf2a22d164e02c356bf7c083ffb91adfa697c8b937ce164f5ae53"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_creativemode",
+      "release_time": "2012-01-22T23:08:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4bd5ec0f2ecffe9ea998ae412a8089306b5fff5fbb457cc58734fc2faed42e0a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_creeper",
+      "release_time": "2011-12-23T01:12:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "52f123333d977ab5cc4fed42dcb6f66c37cbdf3fcb663f510048ecf0b247df9c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_extended",
+      "release_time": "2017-03-16T18:10:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "597b310da3ab5f3cf5ac6615298cfa30f5f8d3723bf362541cbee066a8b62bc2"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_frostgiants",
+      "release_time": "2013-02-28T20:37:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "94b13120ac8c31f45f1b831c6e9a17467803f1ad8f0656bbe3a9fd59af3d6962"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_godmode",
+      "release_time": "2012-01-22T19:12:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "59e6e8f52414d368e7c5412411a39293aa40f87e587afd9b755431289bc13c7c"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_hackcraft",
+      "release_time": "2012-01-28T23:23:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "100bb9398fcad21a8a5a20c2916ebce9e6429b2b4e3604c8b26ce9520ab044e6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_happycraft",
+      "release_time": "2011-12-24T16:12:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ce678ebc1e345ce00c34bf9868fb055adcce7ebaaf7ef297016a97ff22728ed3"
+      }
+    },
+    {
+      "type": "java",
+      "version": "macrocraft_1.0",
+      "release_time": "2012-08-09T00:39:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "7cb7282068ac20f7aed255bf3d5314ce0952ccd6ff209fc7b90fb5aff221c1e6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_magic",
+      "release_time": "2011-12-23T01:21:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "6d2374d953a9696c28ee820bf8d5959c57db21c053f6e1a2e8723377ee8a41bd"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicommands",
+      "release_time": "2013-01-07T18:34:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8db819046788c61a4ffa27deedd0fcd0e35a4af2fa832a7c2b7779bec82a0637"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraft-fly",
+      "release_time": "2012-01-05T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ae4185e976fb046423fdef6c85cdd3a25fd62e0915a348f0e7125e4407c13ca0"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicrafttr",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "60e96384e6494e1ffbc251e4469f344517258c4c8440b274a2bcb3cf2e19eb25"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftce_2011.12.22-07.12",
+      "release_time": "2011-12-22T07:12:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "f2d25183b55247e13fae974334ab061f2f1623cc6204d6e17522768b5532f2c9"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftce_2011.12.22-22.36",
+      "release_time": "2011-12-22T22:36:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "bf2e6a7b51fd2e2b8f936f35d6270e8997a96e149c2f4d985dd772a2da273d49"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftce_2011.12.23-20.51",
+      "release_time": "2011-12-23T20:51:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "eeb7bc83e177a54ae0c404fcf1932b73d084ac210ce3bfdb83c352952152dd5b"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "minicraftflash_1.0",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "804e87413744f820023eed9dc6d73c6fb0d053336ae7a5fdcc2f34f9cc3b93ae"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftminecraftsound_2013.03.23-17.25",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "15317efeb40859bf8ffff8410cef6d77ded847b212b7ef38033709131edaf223"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftminecraftsound_2013.03.23-17.34",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9159c4209ec9f0f427c0de28663a98f80e098fe422b7e170a78e16802c6591ea"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftminecraftsound_2013.03.23-17.45",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "23c6ee7515645f699697c35d0d4a35a34a48fb2e0726e77dd153ec95feee3353"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftmultiplayer_1.0",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "01c35dfe5d17009fa988672e92acbedab94073da75eca67245adecc10ad795f1"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftmultiplayer_1.1",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ed07e9ce5dd45b314b093d661b3f5cc9fcbb3d1774e0f076b8bd5620650a696f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftr_1.3",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "afc89e5879c7e5c602fbcf37ad54a9521449281787f48ff9a62edc4b3f31605e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftsquared_2.6.0",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fe0d27fadc737793875bc5cd71a7533d94de612d66c273727517f6c6a8823a0b"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicraftdelta_a0.1.1",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ba8aad08461247f0ec355ab782b196f7837ae296cf8751dc7bef369c99bf1eeb"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniisles_a1.1",
+      "release_time": "2012-04-15T01:18:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d21d63839ff498604d06fdc54e9de950cfd79516075c65012964eed540d99b03"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minimods_1.0.0",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "5248290ee667a97cd3a1dbc409fd54986d28f3b0a3df6b68748642d4b35cfee8"
+      }
+    },
+    {
+      "type": "java",
+      "version": "miniworld_1.0.0",
+      "release_time": "2021-05-26T21:38:24Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "8dfad86bd3bfe509d7728e50d320670969a63d2c15122404f0f09139a0de08be"
+      }
+    },
+    {
+      "type": "java",
+      "version": "modifiedminicraft_1.3.5",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fe0f5edff5fa3863280b44b38ec7dc9563753d5bef9f785a987c5c75185d2c21"
+      }
+    },
+    {
+      "type": "java",
+      "version": "mysticcraft_1.4",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d95f3ff7b0f122a47b5d671eb6f8241ec65b3e9b1b5b35a6e90770428fe660d4"
+      }
+    },
+    {
+      "type": "java",
+      "version": "mysticcraft_dev-1.0",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "fa130633971123163a1e01b29a00373de62384bcbf1983fb7e8c7bf24cb356a0"
+      }
+    },
+    {
+      "type": "java",
+      "version": "mysticcraft_dev-1.1",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "d49a56dbed5617f7dd37f258f98041c143b1ddf59f0d411b3da4b5fe4b1ada24"
+      }
+    },
+    {
+      "type": "java",
+      "version": "mysticcraft_dev-1.2",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1ba2fc56ae7d84812e799bf120e9f99e5d8b6aed74de6168cc8666ef949d6708"
+      }
+    },
+    {
+      "type": "java",
+      "version": "mysticcraft_dev-1.3",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "bccdf808d27c586c37f6a8a5120e445cfb2b348356b87beb43694bee87be5f92"
+      }
+    },
+    {
+      "type": "java",
+      "version": "mysticcraft_dev-1.4-prerelease",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e3b566638d8c29a576670e45adde2f61c5d3baf58b37a38b6b0e58caac583c04"
+      }
+    },
+    {
+      "type": "java",
+      "version": "pirategarden_11",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "ce3bb8295158276e31acbc84f6e773d0a0505233427a03b0129b7a9d350a958f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_ld22-ce",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "77f90a53577d1015fbc6f162c3c1dc78bc88f6c0c06bda1f4d0ff66d556a3209"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraft-saving-system",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "46b140648e957eea70cbdcf43626f340b2a4cdf7ee51931f2a3c55271ca512e0"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraftmod",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4bfe029eaef82a1f0c4247835cf20043e30499fb2da5e0bd397848a24fb216bf"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_tamal",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "be91950b23176b4a4cdaaa01d7e36bdde2fb176156b2fad64e1ebc589d5182f9"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraftci",
+      "release_time": "2012-02-03T16:21:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "49b742fb23a3491c85551cb64d89e454ba5aca18172ab17505149c1efe839c92"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraftmo",
+      "release_time": "2012-06-16T12:14:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "c81de574ee3dd8a3b010f325abe1095f535a4af4b57ef994c17d63d617f00895"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicrafttextures",
+      "release_time": "2013-01-16T21:48:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "9f0ae8ec2ff94187c2846c5e68e9cd63c9f5263dfdf59864b508b019e5f131ec"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraftx",
+      "release_time": "2018-01-31T14:59:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "1a885a33dcc86d51650117ced9c140aab8d5c9842c14594401e9fbe296600750"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraft-delux",
+      "release_time": "2012-02-08T23:25:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "755378e02a2a669a07d9ab5ec0261d79a3699b9f3d0f37f4b770d8e4dfe0d453"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minicraft-rebuild",
+      "release_time": "2018-02-06T23:11:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "78afb1806cbf1567ac9d7c2ad68133aa28a53c0807b57326f926ef9b6447408a"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minifarm",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "08d1eca4ec744247564b2dc038a7adb173deb56a68dcfd26f172dc11fc31000e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_minitextures",
+      "release_time": "2013-01-01T02:38:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "631789793fd6f11cc216dd1bd2be4174ea748d8ad042a6e6925dfa987bace887"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_moboverload",
+      "release_time": "2012-06-16T18:33:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0de785ff55a846b8e1d57baa52c28b4345b12f9162bbccb03103c07c9d30d8a6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_resizable",
+      "release_time": "2011-12-21T18:18:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "62ba61cb1cdbc38984a234519c53e842d3489f5318e98f9c6b371a139f3bca68"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_respawn",
+      "release_time": "2011-12-19T05:12:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "94ebd4350e9c1ec48185296d8fc0f595160a8accef470c9939298146b8ab712f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_saveandload",
+      "release_time": "2013-02-02T01:16:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "93d0d5743da33fa977bdafe08402f43b89dfa1a98b44ffa5c5b7c113168febe4"
+      }
+    },
+    {
+      "type": "java",
+      "version": "standalone_shroomycraft",
+      "release_time": "2012-07-24T16:22:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2cd3d3ef92f3cc82cf467758e72e22c87b59b1719d9f72668d214875ba9d1e7b"
+      }
+    },
+    {
+      "type": "java",
+      "version": "qbitcraft_1.0.0",
+      "release_time": "2021-04-07T21:23:12Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "19495117c6182b38062eaf7f202fdd0aa6a6830750f4bbce151772c412e753d2"
+      }
+    },
+    {
+      "type": "executable",
+      "version": "minicraftdotnet_original",
+      "release_time": "2000-01-01T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "0f869aab650c7c1b75e263265c595d9257af8a2853f665c3acff8117a1ca4aee"
+      }
+    },
+    {
+      "type": "java",
+      "version": "diycraft_2021.02.13-19.30",
+      "release_time": "2021-02-13T16:43:20Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "cb0ffd3f6c6443dbc6a6de531c485550013b9d8a78192ee26c977208045b7660"
+      }
+    },
+    {
+      "type": "java",
+      "version": "diycraft_2021.06.13-07.43",
+      "release_time": "2021-06-13T04:52:35Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "2e4063ac2ac175b1cb105bdd03cb527a47de8ab588b7db7c4fbcf6fe24f7fd71"
+      }
+    },
+    {
+      "type": "java",
+      "version": "diycraft_2021.04.18-16.17",
+      "release_time": "2021-04-18T14:13:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "c73d764534e6ad3d5011c37a8b5ea7c69bcb81932da19404bcdb98f326df00e3"
+      }
+    },
+    {
+      "type": "java",
+      "version": "diycraft_2021.02.27-18.00",
+      "release_time": "2021-02-27T15:42:54Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "a8b06fef1bfaaf6db1500a6e7442268f1b05e7e881ec99a8a84a61e55798a8fd"
+      }
+    },
+    {
+      "type": "java",
+      "version": "diycraft_2021.01.31-12.25",
+      "release_time": "2021-01-31T15:24:05Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "b304e3df62582298c9acbe19305ab24f65642e5657af8d04af25bbf8062b281d"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicrate_1.1.0",
+      "release_time": "2012-08-12T16:34:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "baa2b633a6141a9e75d5a4c82d46ef0c7a2169f8b4be8ee491462d4259742652"
+      }
+    },
+    {
+      "type": "java",
+      "version": "minicrate_1.3.0",
+      "release_time": "2012-08-25T16:24:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "141c9a436c5463e911a66824c2071dcc4c1ca040b43e35540cde9120b58819a6"
+      }
+    },
+    {
+      "type": "java",
+      "version": "alecraft_0.1.0",
+      "release_time": "2011-12-26T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "5b3261d9dfe960e8f89bf09b5d165341ee9ce38a0dfbe6c2e603afbe901f762f"
+      }
+    },
+    {
+      "type": "java",
+      "version": "alecraft_0.1.1",
+      "release_time": "2011-12-26T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "4e6ea90c95e63175f9871f7a27fabfe9331d1757646497762cfcfc7c9983e6e4"
+      }
+    },
+    {
+      "type": "java",
+      "version": "alecraft_0.1.2",
+      "release_time": "2011-12-26T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "f277d438ebf1afde8c880aa61dacc1a2d0182e3d332b6e2b96b56a8164dfe11e"
+      }
+    },
+    {
+      "type": "java",
+      "version": "alecraft_0.1.3",
+      "release_time": "2011-12-26T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "467b176837cc726ebf19a0a5516e0c406582e0f1a03bcad356fa4a3a7dc596da"
+      }
+    },
+    {
+      "type": "java",
+      "version": "alecraft_0.2.0",
+      "release_time": "2012-01-02T00:00:00Z",
+      "checksum": {
+        "type": "sha256",
+        "hash": "25239040a6591c2d68a2337f926cfcebccd88377888e83341895359646d38813"
+      }
+    }
+  ]
+}

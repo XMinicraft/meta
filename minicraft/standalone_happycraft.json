@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2011-12-24T16:12:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/happycraft.jar","size":186180,"sha1":"0b0cf805d780b3ad395a118c6b0bdc7b09b132d8"}},"libraries":[],"main_class":"com.mojang.ld22.Game","uid":"standalone_happycraft"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "standalone_happycraft",
+  "release_time": "2011-12-24T16:12:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Game",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/happycraft.jar",
+      "size": 186180,
+      "checksum": {
+        "type": "sha1",
+        "hash": "0b0cf805d780b3ad395a118c6b0bdc7b09b132d8"
+      }
+    }
+  }
+}

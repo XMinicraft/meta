@@ -1,1 +1,20 @@
-{"type":"java","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/tamal.jar","size":72811,"sha1":"c16c8b69e3550f16e2422ecab0e2df0dbda48e93"}},"libraries":[],"main_class":"us.havanki.tamal.gfx.Demo2","release_time":"2000-01-01T00:00:00Z","uid":"standalone_tamal"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "standalone_tamal",
+  "release_time": "2000-01-01T00:00:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "us.havanki.tamal.gfx.Demo2",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/tamal.jar",
+      "size": 72811,
+      "checksum": {
+        "type": "sha1",
+        "hash": "c16c8b69e3550f16e2422ecab0e2df0dbda48e93"
+      }
+    }
+  }
+}

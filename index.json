@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "entries": [
+    {
+      "uid": "jre",
+      "checksum": {
+        "type": "sha256",
+        "hash": "dac93fd6d8f09815d7e169bc676fa3a75b536bd79fb351f7a94086058eabdc0b"
+      }
+    },
+    {
+      "uid": "minicraft",
+      "checksum": {
+        "type": "sha256",
+        "hash": "e85d7556747c69b11f429db8f7668092c4d4da5b9601baf749a43e5e30df8f27"
+      }
+    }
+  ]
+}

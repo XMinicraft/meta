@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2018-01-10T05:38:51Z","java":{"version":8},"downloads":{"client":{"url":"https://github.com/chrisj42/miniventure/releases/download/v1.0.7/miniventure-1.0.7.jar","size":11657180,"sha1":"f69b91cdb1b9d0ce346e8fde49a2dd0b7f3ef941"}},"libraries":[],"main_class":"miniventure.game.desktop.DesktopLauncher","uid":"miniventure_pa-1.0-pre7"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "miniventure_pa-1.0-pre7",
+  "release_time": "2018-01-10T05:38:51Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "miniventure.game.desktop.DesktopLauncher",
+  "downloads": {
+    "client": {
+      "url": "https://github.com/chrisj42/miniventure/releases/download/v1.0.7/miniventure-1.0.7.jar",
+      "size": 11657180,
+      "checksum": {
+        "type": "sha1",
+        "hash": "f69b91cdb1b9d0ce346e8fde49a2dd0b7f3ef941"
+      }
+    }
+  }
+}

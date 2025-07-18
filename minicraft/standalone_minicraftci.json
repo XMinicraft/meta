@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2012-02-03T16:21:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicraftci.jar","size":291885,"sha1":"028fa6f59c0a7c63cceffd367a24bef6b322e61e"}},"libraries":[],"main_class":"com.mojang.ld22.Game","uid":"standalone_minicraftci"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "standalone_minicraftci",
+  "release_time": "2012-02-03T16:21:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Game",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/standalone/minicraftci.jar",
+      "size": 291885,
+      "checksum": {
+        "type": "sha1",
+        "hash": "028fa6f59c0a7c63cceffd367a24bef6b322e61e"
+      }
+    }
+  }
+}

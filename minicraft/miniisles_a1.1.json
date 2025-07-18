@@ -1,1 +1,20 @@
-{"type":"java","release_time":"2012-04-15T01:18:00Z","java":{"version":8},"downloads":{"client":{"url":"https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniisles/a1.1.jar","size":343705,"sha1":"d085c1ef3345b440324f1085696732105f1231b4"}},"libraries":[],"main_class":"com.mojang.ld22.Game","uid":"miniisles_a1.1"}
+{
+  "format_version": 1,
+  "type": "java",
+  "version": "miniisles_a1.1",
+  "release_time": "2012-04-15T01:18:00Z",
+  "java": {
+    "version": 8
+  },
+  "main_class": "com.mojang.ld22.Game",
+  "downloads": {
+    "client": {
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniisles/a1.1.jar",
+      "size": 343705,
+      "checksum": {
+        "type": "sha1",
+        "hash": "d085c1ef3345b440324f1085696732105f1231b4"
+      }
+    }
+  }
+}
